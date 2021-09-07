@@ -1,0 +1,48 @@
+html, body {
+    height: 100%;
+    margin: 0;
+}
+
+body {
+    background-image: url(../img/portfolioachtergrondV3.png);
+    font-family: "Poppins Black", serif;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.inhoud {
+    display: flex;
+    flex: 1;
+    align-items: center;
+}
+
+.vakken {
+    list-style: none;
+}
+
+.vakken a {
+    font-size: 80px;
+    color: white;
+    text-decoration: none;
+    animation: movetext 1s;
+    text-shadow: 2px 2px red;
+}
+
+.vakken a:hover {
+    color: #ffdbea;
+}
+
+footer {
+    text-align: center;
+}
+
+@keyframes movetext {
+    0% {
+        ;
+    }
+    100% {
+        ;
+    }
+}

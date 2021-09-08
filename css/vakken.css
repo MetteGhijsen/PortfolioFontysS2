@@ -1,0 +1,41 @@
+html, body {
+    height: 100%;
+    margin: 0;
+}
+
+body {
+    font-family: "Poppins Black", serif;
+    color: black;
+}
+
+.taakbalk {
+    text-decoration: none;
+    font-size: 50px;
+    color: black;
+}
+
+.hoofdtekst {
+    display: flex;
+    justify-content: flex-start;
+    font-size: 40px;
+    margin: 75px;
+}
+
+.project-group {
+    display: grid;
+    grid-template-areas: "afbeelding" "text";
+    grid-template-columns: 1fr 1fr;
+    margin: 75px;
+}
+
+.afbeelding img{
+    height: 300px;
+}
+
+.text .titel p{
+    font-size: 50px;
+}
+
+.text .artikel p{
+    font-size: 20px;
+}

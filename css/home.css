@@ -23,26 +23,33 @@ body {
 }
 
 .vakken a {
-    font-size: 80px;
+    font-size: 70px;
     color: white;
     text-decoration: none;
-    animation: movetext 1s;
+    animation: movetext 2s;
     text-shadow: 2px 2px red;
+    display: block;
 }
 
 .vakken a:hover {
     color: #ffdbea;
 }
 
-footer {
-    text-align: center;
+.copyrightnote{
+    display: flex;
+    justify-content: flex-end;
+    font-family:"Poppins Black";
 }
 
 @keyframes movetext {
     0% {
-        ;
+        transform: translate(-10px, 0px);
     }
     100% {
-        ;
+        transform: translate(0px, 0px) ;
     }
+}
+
+.logo{
+    display: block;
 }

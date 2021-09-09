@@ -12,6 +12,10 @@
 <body>
 <div class="taakbalk">
     <li><a href="../index.php">Home</a></li>
+    <li class="pijltje"> < </li>
+    <li><a href="../leeruitkomsten.php">Leeruitkomsten</a></li>
+    <li class="pijltje"> < </li>
+    <li><a href="../vakken/interactivemedia.php" class="currentpage">Interactive Media</a></li>
 </div>
 
 <div class="hoofdtekst">
@@ -20,20 +24,18 @@
 
 <div class="project-group">
     <div class="afbeelding">
-        <img src="https://i.pinimg.com/originals/92/17/a8/9217a86945b10b32d03b1ae913d4af14.jpg" alt="pipi">
+        <img src="https://i433728.venus.fhict.nl/src/img/thumbnails/projects/interactive-media/portfolio-ux.gif" alt="pipi">
     </div>
     <div class="text">
         <div class="titel">
-            <p> mijn kekke project</p>
+            <p> Portfolio Website</p>
         </div>
 
         <div class="artikel">
-            <p> heel boeiend enzo</p>
+            <p> Dit is een portfolio-website die ik gemaakt heb gedurende dit semester. Ik wilde graag kijken of ik vanuit scratch een mooie, functionele website kon maken.</p>
         </div>
 
-        <div class="knop">
-            <button type="button">Click Me!</button>
-        </div>
+        <a href="../projects/interactive%20media%20projects/portfolioproject.php" class="btn"> Bekijk Project </a>
     </div>
 </div>
 

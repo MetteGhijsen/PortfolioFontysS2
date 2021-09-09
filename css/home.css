@@ -12,6 +12,37 @@ body {
     justify-content: space-between;
 }
 
+.taakbalk{
+    margin-left: 100px;
+    margin-top: 25px;
+    margin-bottom: -75px;
+    font-size: 10px;
+    font-weight: normal;
+}
+
+.taakbalk li a {
+    text-decoration: none;
+    color: black;
+    font-family: Poppins, sans-serif;
+}
+
+.taakbalk li{
+    display: inline;
+    font-size: 35px;
+}
+
+.taakbalk .currentpage{
+    color: blue;
+}
+
+.hoofdtekst {
+    display: flex;
+    justify-content: flex-start;
+    font-size: 60px;
+    margin-left: 100px;
+    margin-top: -40px;
+}
+
 .inhoud {
     display: flex;
     flex: 1;
@@ -50,6 +81,6 @@ body {
     }
 }
 
-.logo{
-    display: block;
+.logo img{
+    height: 10%;
 }

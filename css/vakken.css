@@ -5,7 +5,8 @@ html, body {
 
 body {
     font-family: "Poppins Black", serif;
-    color: black;
+    color: white;
+    background-image: url("../img/portfolioachtergrondV4.png");
 }
 
 .taakbalk{
@@ -18,8 +19,8 @@ body {
 
 .taakbalk li a {
     text-decoration: none;
-    color: black;
-    font-family: Poppins, sans-serif;
+    color: white;
+    font-family: "Quicksand Light", sans-serif;
 }
 
 .taakbalk li{
@@ -28,7 +29,11 @@ body {
 }
 
 .taakbalk .currentpage{
-    color: blue;
+    color: #0900b6;
+}
+
+.pijltje{
+    font-family: "Quicksand Light", sans-serif;
 }
 
 .hoofdtekst {
@@ -37,6 +42,7 @@ body {
     font-size: 60px;
     margin-left: 100px;
     margin-top: -40px;
+    text-shadow: 5px 5px #0900b6;
 }
 
 .project-group {
@@ -49,30 +55,38 @@ body {
 .afbeelding img{
     height: 300px;
     margin: 0px 100px 100px 100px;
-    border-radius: 35px;
-    box-shadow: 5px 5px 5px grey;
+    border-radius: 20px;
+    box-shadow: 3px 3px 3px #0900b6;
 }
 
 .text .titel p{
     font-size: 50px;
     margin-bottom: -10px;
+    text-shadow: 5px 5px #0900b6;
 }
 
 .text .artikel p{
-    font-family: Poppins,sans-serif;
+    font-family: "Quicksand Light",sans-serif;
     font-size: 15px;
     margin-bottom: 30px;
 }
 
 .text .btn {
-    padding: 20px 25px;
+    padding: 10px 25px;
     text-align: center;
     display: inline-block;
-    background-color: aqua;
-    color: black;
+    background: linear-gradient(60deg, #0900b6, #0066ff);
+    color: white;
     font-family: Poppins,sans-serif;
     font-weight: bold;
     font-size: 16px;
     text-decoration: none;
-    border-radius: 35px;
+    border-radius: 10px;
+    transition: all .5s;
+}
+
+.text .btn:hover{
+    transform: translateY(-5px);
+    box-shadow: 0 3px 20px rgba(255,255,255,0.5);
+    transition: all .5s;
 }

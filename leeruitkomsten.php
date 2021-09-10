@@ -6,6 +6,7 @@
           content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <link rel="stylesheet" href="css/leeruitkomsten.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css">
     <link rel="icon" href="img/logotjewit.png">
     <title>Portfolio Mette Ghijsen</title>
 </head>
@@ -21,35 +22,31 @@
         <p>Leeruitkomsten</p>
     </div>
 
-<!--   <div class="inhoud">
-        <ul class="vakken">
-            <li><a href="vakken/interactivemedia.php">Interactive Media</a></li>
-            <li><a href="vakken/development.php">Development</a></li>
-            <li><a href="vakken/design.php">Design</a></li>
-            <li><a href="vakken/research.php">Research</a></li>
-            <li><a href="vakken/communication.php">Communication</a></li>
-            <li><a href="vakken/professionalidentity">Professional Identity</a></li>
-        </ul>
-    </div>-->
     <div class="grid-container">
-        <div class="interactivemedia">
-            <li><a href="vakken/interactivemedia.php">Interactive Media</a></li>
-        </div>
-        <div class="development">
-            <li><a href="vakken/development.php">Development</a></li>
-        </div>
-        <div class="design">
-            <li><a href="vakken/design.php">Design</a></li>
-        </div>
-        <div class="research">
-            <li><a href="vakken/research.php">Research</a></li>
-        </div>
-        <div class="communication">
-            <li><a href="vakken/communication.php">Communication</a></li>
-        </div>
-        <div class="professionalidentity">
-            <li><a href="vakken/professionalidentity">Professional Identity</a></li>
-        </div>
+        <a href="vakken/interactivemedia.php" class="interactivemedia">
+            <p> Interactive Media</p>
+            <i class="bi bi-images"></i>
+        </a>
+        <a href="vakken/development.php" class="development">
+            <p>Development</p>
+            <i class="bi bi-code-slash"></i>
+        </a>
+        <a href="vakken/design.php" class="design">
+            <p>Design</p>
+            <i class="bi bi-pencil"></i>
+        </a>
+        <a href="vakken/research.php" class="research">
+            <p>Research</p>
+            <i class="bi bi-search"></i>
+        </a>
+        <a href="vakken/communication.php" class="communication">
+            <p>Communication</p>
+            <i class="bi bi-chat"></i>
+        </a>
+        <a href="vakken/professionalidentity" class="professionalidentity">
+            <p>Professional Identity</p>
+            <i class="bi bi-person-lines-fill"></i>
+        </a>
     </div>
 </body>
 

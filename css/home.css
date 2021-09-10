@@ -3,84 +3,57 @@ html, body {
     margin: 0;
 }
 
-body {
-    background-image: url(../img/portfolioachtergrondV3.png);
-    font-family: "Poppins Black", serif;
-    color: white;
-    display: flex;
+body{
+    background-image: url("../img/portfolioachtergrondV4.png");
+    display:flex;
     flex-direction: column;
-    justify-content: space-between;
+    flex-wrap: nowrap;
 }
 
-.taakbalk{
-    margin-left: 100px;
-    margin-top: 25px;
-    margin-bottom: -75px;
-    font-size: 10px;
-    font-weight: normal;
-}
-
-.taakbalk li a {
-    text-decoration: none;
-    color: black;
-    font-family: Poppins, sans-serif;
-}
-
-.taakbalk li{
-    display: inline;
-    font-size: 35px;
-}
-
-.taakbalk .currentpage{
-    color: blue;
-}
-
-.hoofdtekst {
+.naam{
+    font-family: "Scream Real";
+    color: white;
+    text-shadow: 10px 10px #0900b6;
+    font-size: 100px;
     display: flex;
-    justify-content: flex-start;
-    font-size: 60px;
-    margin-left: 100px;
-    margin-top: -40px;
+    justify-content: center;
 }
 
-.inhoud {
-    display: flex;
-    flex: 1;
-    align-items: center;
+.naam p{
+    margin: 0;
 }
 
-.vakken {
+.leeruitkomsten{
+    font-family: "Quicksand Light";
+    color: white;
     list-style: none;
+    font-size: 40px;
+    display: flex;
+    justify-content: center;
 }
 
-.vakken a {
-    font-size: 70px;
+.leeruitkomsten a{
     color: white;
     text-decoration: none;
-    animation: movetext 2s;
-    text-shadow: 2px 2px red;
-    display: block;
+    display: flex;
 }
 
-.vakken a:hover {
-    color: #ffdbea;
+.leeruitkomsten a:hover{
+    background-color:#0900b6;
+}
+
+.container{
+    height: 100%;
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    flex-direction: column;
 }
 
 .copyrightnote{
-    display: flex;
-    justify-content: flex-end;
-    font-family:"Poppins Black";
-}
-
-@keyframes movetext {
-    0% {
-        transform: translate(-10px, 0px);
-    }
-    100% {
-        transform: translate(0px, 0px) ;
-    }
-}
-
-.logo img{
-    height: 10%;
+    positiom: absolute;
+    font-family:"Quicksand Light";
+    font-size: 15px;
+    color: white;
+    text-align: center;
 }

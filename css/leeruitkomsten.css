@@ -1,0 +1,148 @@
+html, body {
+    height: 100%;
+    margin: 0;
+}
+
+body {
+    background-image: url("../img/portfolioachtergrondV4.png");
+    font-family: "Poppins Black", serif;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.taakbalk{
+    margin-left: 100px;
+    margin-top: 25px;
+    margin-bottom: -75px;
+    font-size: 10px;
+    font-weight: normal;
+}
+
+.taakbalk li a {
+    text-decoration: none;
+    color: white;
+    font-family: "Quicksand Light", sans-serif;
+}
+
+.taakbalk li{
+    display: inline;
+    font-size: 35px;
+}
+
+.taakbalk .currentpage{
+    color: #0900b6;
+}
+
+.pijltje{
+    font-family: "Quicksand Light", sans-serif;
+}
+
+.hoofdtekst {
+    display: flex;
+    justify-content: flex-start;
+    font-size: 60px;
+    margin-left: 100px;
+    margin-top: -40px;
+    text-shadow: 5px 5px #0900b6;
+}
+
+.grid-container{
+    display: grid;
+    grid-template-areas: "interactivemedia" "development" "design";
+    grid-template-columns: auto auto auto;
+    padding: 0px 100px 0px 100px;
+    font-size: 50px;
+    list-style: none;
+}
+
+.grid-container .interactivemedia{
+    background: linear-gradient(60deg, #ff0000, #ff0091);
+    height: 300px;
+    border-radius: 20px;
+    margin: 8px;
+}
+
+.grid-container .interactivemedia a{
+    color: white;
+    text-decoration: none;
+}
+
+.grid-container .development{
+    background: linear-gradient(60deg, #ff6600, #ffc100);
+    height: 300px;
+    border-radius: 20px;
+    margin: 8px;
+}
+
+.grid-container .design{
+    background: linear-gradient(60deg, #fd0,#FBB034);
+    height: 300px;
+    border-radius: 20px;
+    margin: 8px;
+}
+
+.grid-container .research{
+    background: linear-gradient(60deg, #44ff00, #2c6400);
+    height: 300px;
+    border-radius: 20px;
+    margin: 8px;
+}
+
+.grid-container .communication{
+    background: linear-gradient(60deg, #00e1ff, #0055ff);
+    height: 300px;
+    border-radius: 20px;
+    margin: 8px;
+}
+
+.grid-container .professionalidentity{
+    background: linear-gradient(60deg, #ff00d5, #bb00ff);
+    height: 300px;
+    border-radius: 20px;
+    margin: 8px;
+}
+
+/*.inhoud {
+    display: flex;
+    flex: 1;
+    align-items: center;
+}*/
+
+/*.vakken {
+    list-style: none;
+}
+
+.vakken a {
+    font-size: 70px;
+    color: white;
+    text-decoration: none;
+    animation: movetext 2s;
+    display: block;
+}
+
+.vakken a:hover {
+    color: #ffdbea;
+}*/
+
+.container{
+    height: 100%;
+}
+
+.copyrightnote{
+    positiom: absolute;
+    font-family:"Quicksand Light";
+    font-size: 15px;
+    color: white;
+    text-align: center;
+}
+
+@keyframes movetext {
+    0% {
+        transform: translate(-10px, 0px);
+    }
+    100% {
+        transform: translate(0px, 0px) ;
+    }
+}

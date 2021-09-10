@@ -3,6 +3,16 @@ html, body {
     margin: 0;
 }
 
+@font-face {
+    font-family: "Scream Real";
+    src: url("../fonts/scream real/Scream Real.otf") format("truetype");
+}
+
+@font-face {
+    font-family: "Quicksand Light";
+    src: url("../fonts/quicksand/Quicksand-Light.ttf") format("truetype");
+}
+
 body{
     background-image: url("../img/portfolioachtergrondV4.png");
     display:flex;

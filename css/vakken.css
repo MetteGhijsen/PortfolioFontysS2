@@ -3,6 +3,32 @@ html, body {
     margin: 0;
 }
 
+@font-face {
+    font-family: "Poppins Black";
+    src: url("../fonts/poppins/Poppins-Black.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: "Quicksand Light";
+    src: url("../fonts/quicksand/Quicksand-Light.ttf") format("truetype");
+}
+
+/* width */
+::-webkit-scrollbar {
+    width: 5px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+    background: black;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+    background: #0900b6;
+    border-radius: 5px;
+}
+
 body {
     font-family: "Poppins Black", serif;
     color: white;

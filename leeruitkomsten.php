@@ -33,22 +33,22 @@
     </div>-->
     <div class="grid-container">
         <div class="interactivemedia">
-            <li><a href="vakken/interactivemedia.php">1</a></li>
+            <li><a href="vakken/interactivemedia.php">Interactive Media</a></li>
         </div>
         <div class="development">
-            <li><a href="vakken/development.php">2</a></li>
+            <li><a href="vakken/development.php">Development</a></li>
         </div>
         <div class="design">
-            <li><a href="vakken/design.php">3</a></li>
+            <li><a href="vakken/design.php">Design</a></li>
         </div>
         <div class="research">
-            <li><a href="vakken/research.php">4</a></li>
+            <li><a href="vakken/research.php">Research</a></li>
         </div>
         <div class="communication">
-            <li><a href="vakken/communication.php">5</a></li>
+            <li><a href="vakken/communication.php">Communication</a></li>
         </div>
         <div class="professionalidentity">
-            <li><a href="vakken/professionalidentity">6</a></li>
+            <li><a href="vakken/professionalidentity">Professional Identity</a></li>
         </div>
     </div>
 </body>

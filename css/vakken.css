@@ -4,18 +4,18 @@ html, body {
 }
 
 @font-face {
-    font-family: "Poppins Black";
-    src: url("../fonts/poppins/Poppins-Black.ttf") format("truetype");
-}
-
-@font-face {
     font-family: "Quicksand Light";
     src: url("../fonts/quicksand/Quicksand-Light.ttf") format("truetype");
 }
 
+@font-face {
+    font-family: "Montserrat-Bold";
+    src: url("../fonts/montserrat/Montserrat-Bold.otf") format("truetype");
+}
+
 /* width */
 ::-webkit-scrollbar {
-    width: 5px;
+    width: 4px;
 }
 
 /* Track */
@@ -30,9 +30,9 @@ html, body {
 }
 
 body {
-    font-family: "Poppins Black", serif;
+    font-family: "Montserrat-Bold", serif;
     color: white;
-    background-image: url("../img/portfolioachtergrondV4.png");
+    background-image: url("../img/portfolioachtergrondV5.png");
 }
 
 .taakbalk{
@@ -67,7 +67,8 @@ body {
     justify-content: flex-start;
     font-size: 60px;
     margin-left: 100px;
-    margin-top: -40px;
+    margin-top: 30px;
+    margin-bottom: -30px;
     text-shadow: 5px 5px #0900b6;
 }
 
@@ -76,13 +77,28 @@ body {
     grid-template-areas: "afbeelding" "text";
     grid-template-columns: 1fr 1fr;
     margin: 75px;
+    animation-name: block;
+    animation-duration: 1s;
+}
+
+@keyframes block {
+    0% {
+        margin-top: 0px;
+    }
+    100% {
+        margin-top: 75px;
+    }
 }
 
 .afbeelding img{
     height: 300px;
     margin: 0px 100px 100px 100px;
     border-radius: 20px;
-    box-shadow: 3px 3px 3px #0900b6;
+    box-shadow: 0 3px 20px rgba(255,255,255,0.5);
+}
+
+.text{
+    margin-left: -30px;
 }
 
 .text .titel p{
@@ -93,7 +109,7 @@ body {
 
 .text .artikel p{
     font-family: "Quicksand Light",sans-serif;
-    font-size: 15px;
+    font-size: 20px;
     margin-bottom: 30px;
 }
 
@@ -103,7 +119,7 @@ body {
     display: inline-block;
     background: linear-gradient(60deg, #0900b6, #0066ff);
     color: white;
-    font-family: Poppins,sans-serif;
+    font-family: "Quicksand Light",sans-serif;
     font-weight: bold;
     font-size: 16px;
     text-decoration: none;
@@ -113,6 +129,6 @@ body {
 
 .text .btn:hover{
     transform: translateY(-5px);
-    box-shadow: 0 3px 20px rgba(255,255,255,0.5);
+    box-shadow: 0 3px 5px rgba(255,255,255,0.5);
     transition: all .5s;
 }

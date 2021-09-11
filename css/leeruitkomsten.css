@@ -4,11 +4,6 @@ html, body {
 }
 
 @font-face {
-    font-family: "Poppins Black";
-    src: url("../fonts/poppins/Poppins-Black.ttf") format("truetype");
-}
-
-@font-face {
     font-family: "Quicksand Light";
     src: url("../fonts/quicksand/Quicksand-Light.ttf") format("truetype");
 }
@@ -18,9 +13,14 @@ html, body {
     src: url("../fonts/montserrat/Montserrat-Regular.otf") format("truetype");
 }
 
+@font-face {
+    font-family: "Montserrat-Bold";
+    src: url("../fonts/montserrat/Montserrat-Bold.otf") format("truetype");
+}
+
 /* width */
 ::-webkit-scrollbar {
-    width: 5px;
+    width: 4px;
 }
 
 /* Track */
@@ -36,8 +36,8 @@ html, body {
 
 
 body {
-    background-image: url("../img/portfolioachtergrondV4.png");
-    font-family: "Poppins Black", serif;
+    background-image: url("../img/portfolioachtergrondV5.png");
+    font-family: "Montserrat-Bold", serif;
     color: white;
     display: flex;
     flex-direction: column;
@@ -76,9 +76,20 @@ body {
     justify-content: flex-start;
     font-size: 60px;
     margin-left: 100px;
-    margin-top: -40px;
+    margin-top: 30px;
+    margin-bottom: -30px;
     text-shadow: 5px 5px #0900b6;
 }
+
+@keyframes block {
+    0% {
+        margin-top: -50px;
+    }
+    100% {
+        margin-top: 0;
+    }
+}
+
 
 .grid-container{
     display: grid;
@@ -86,6 +97,8 @@ body {
     padding: 0px 100px 0px 100px;
     font-size: 30px;
     list-style: none;
+    animation-name: block;
+    animation-duration: 1s;
 }
 
 .grid-container a{

@@ -6,6 +6,7 @@
           content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <link rel="stylesheet" href="../css/vakken.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css">
     <link rel="icon" href="img/logotjewit.png">
     <title>Portfolio Mette Ghijsen</title>
 </head>
@@ -36,7 +37,7 @@
             <p> Dit is een portfolio-website die ik gemaakt heb gedurende dit semester. Ik wilde graag kijken of ik vanuit scratch een mooie, functionele website kon maken.</p>
         </div>
 
-        <a href="../projects/interactive%20media%20projects/portfolioproject.php" class="btn"> Bekijk Project </a>
+        <a href="../projects/interactive%20media%20projects/portfolioproject.php" class="btn"> <i class="bi bi-play"></i> Bekijk Project </a>
     </div>
 </div>
 

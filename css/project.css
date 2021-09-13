@@ -62,10 +62,6 @@ body {
     font-family: "Quicksand Light", sans-serif;
 }
 
-.container{
-    height: 100%;
-}
-
 .hoofdtekst {
     display: flex;
     justify-content: flex-start;
@@ -76,65 +72,8 @@ body {
     text-shadow: 5px 5px #0900b6;
 }
 
-.project-group {
-    display: grid;
-    grid-template-areas: "afbeelding" "text";
-    grid-template-columns: 1fr 1fr;
-    margin: 75px;
-    animation-name: block;
-    animation-duration: 1s;
-}
-
-@keyframes block {
-    0% {
-        margin-top: 0px;
-    }
-    100% {
-        margin-top: 75px;
-    }
-}
-
-.afbeelding img{
-    height: 300px;
-    margin: 0px 100px 100px 100px;
-    border-radius: 20px;
-    box-shadow: 0 3px 20px rgba(255,255,255,0.5);
-}
-
-.text{
-    margin-left: -30px;
-}
-
-.text .titel p{
-    font-size: 50px;
-    margin-bottom: -10px;
-    text-shadow: 5px 5px #0900b6;
-}
-
-.text .artikel p{
-    font-family: "Quicksand Light",sans-serif;
-    font-size: 20px;
-    margin-bottom: 30px;
-}
-
-.text .btn {
-    padding: 10px 25px;
-    text-align: center;
-    display: inline-block;
-    background: linear-gradient(60deg, #0900b6, #0066ff);
-    color: white;
-    font-family: "Quicksand Light",sans-serif;
-    font-weight: bold;
-    font-size: 20px;
-    text-decoration: none;
-    border-radius: 10px;
-    transition: all .5s;
-}
-
-.text .btn:hover{
-    transform: translateY(-5px);
-    box-shadow: 0 3px 5px rgba(255,255,255,0.5);
-    transition: all .5s;
+.container{
+    height: 100%;
 }
 
 .copyrightnote{

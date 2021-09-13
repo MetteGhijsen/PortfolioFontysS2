@@ -36,7 +36,7 @@ html, body {
 
 
 body {
-    background-image: url("../img/portfolioachtergrondV5.png");
+    background-image: url("../img/portfolioachtergrondV4.png");
     font-family: "Montserrat-Bold", serif;
     color: white;
     display: flex;
@@ -98,7 +98,7 @@ body {
     font-size: 30px;
     list-style: none;
     animation-name: block;
-    animation-duration: 1s;
+    animation-duration: 1.5s;
 }
 
 .grid-container a{

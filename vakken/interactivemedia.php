@@ -15,9 +15,9 @@
 <div class="container">
     <div class="taakbalk">
         <li><a href="../index.php">Home </a></li>
-        <li class="pijltje"><</li>
+        <li class="pijltje"> < </li>
         <li><a href="../leeruitkomsten.php">Leeruitkomsten </a></li>
-        <li class="pijltje"><</li>
+        <li class="pijltje"> < </li>
         <li><a href="../vakken/interactivemedia.php" class="currentpage"> Interactive Media</a></li>
     </div>
 
@@ -28,7 +28,7 @@
     <div class="project-group">
         <div class="afbeelding">
             <img src="https://cdn.statically.io/img/i.pinimg.com/originals/16/38/c4/1638c4515526ecdad29f0e43860ba45b.gif"
-                 alt="pipi">
+                 alt="portfolioafbeelding">
         </div>
         <div class="text">
             <div class="titel">

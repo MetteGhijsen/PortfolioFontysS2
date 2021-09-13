@@ -35,7 +35,7 @@ body {
     background-image: url("../img/portfolioachtergrondV4.png");
 }
 
-.taakbalk{
+.taakbalk {
     margin-left: 100px;
     margin-top: 25px;
     margin-bottom: -75px;
@@ -49,16 +49,16 @@ body {
     font-family: "Quicksand Light", sans-serif;
 }
 
-.taakbalk li{
+.taakbalk li {
     display: inline;
     font-size: 35px;
 }
 
-.taakbalk .currentpage{
+.taakbalk .currentpage {
     color: #0900b6;
 }
 
-.pijltje{
+.pijltje {
     font-family: "Quicksand Light", sans-serif;
 }
 
@@ -72,13 +72,56 @@ body {
     text-shadow: 5px 5px #0900b6;
 }
 
-.container{
+.projectinfo {
+    font-family: "Quicksand Light", sans-serif;
+    font-size: 25px;
+    color: white;
+    margin-left: 100px;
+}
+
+.grid-container {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-areas: "afbeelding" "text";
+    animation-name: block;
+    animation-duration: 1s;
+}
+
+.afbeelding img {
+    height: 300px;
+    margin: 0px 100px 100px 100px;
+    border-radius: 20px;
+    box-shadow: 0 3px 20px rgba(255, 255, 255, 0.5);
+    grid-area: afbeelding;
+}
+
+.text {
+    margin-left: -30px;
+    grid-area: text;
+}
+
+.text .artikel p {
+    font-family: "Quicksand Light", sans-serif;
+    font-size: 20px;
+    margin-bottom: 30px;
+}
+
+@keyframes block {
+    0% {
+        margin-top: 0px;
+    }
+    100% {
+        margin-top: 75px;
+    }
+}
+
+.container {
     height: 100%;
 }
 
-.copyrightnote{
+.copyrightnote {
     positiom: absolute;
-    font-family:"Quicksand Light";
+    font-family: "Quicksand Light";
     font-size: 15px;
     color: white;
     text-align: center;

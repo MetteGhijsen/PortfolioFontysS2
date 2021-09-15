@@ -31,15 +31,16 @@
         </div>
         <div class="text">
             <div class="titel">
-                <p> Klik op de knop!</p>
+                <p> Klik op de knop</p>
             </div>
 
             <div class="artikel">
-                <p> Dit is het eerste Javascript project dat ik ooit gemaakt heb. Het is de bedoeling dat je op de knop
-                probeert te drukken. Echter zal deze de hele tijd weg bewegen zodra je je muis over de knop beweegt.</p>
+                <p> Dit project is mijn eerste Javascript ervaring ooit. Het project bestaat uit één knop.
+                Wanneer je op deze knop klikt, verandert de knop van positie. Het is een simpele toepassing die een goede
+                basis creeërt om op verder te bouwen.</p>
             </div>
 
-            <a href="../projects/interactive%20media%20projects/portfolioproject.php" class="btn"> <i
+            <a href="../projects/development%20projects/klikopdeknopproject.php" class="btn"> <i
                         class="bi bi-play"></i> Bekijk Project </a>
         </div>
     </div>
@@ -52,6 +53,3 @@
     </div>
 </footer>
 </html>
-
-
-https://gyazo.com/9580683f070b3094e941a512fe03c533

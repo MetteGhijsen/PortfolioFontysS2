@@ -43,7 +43,7 @@
             <p>Communication</p>
             <i class="bi bi-chat"></i>
         </a>
-        <a href="vakken/professionalidentity" class="professionalidentity">
+        <a href="vakken/professionalidentity.php" class="professionalidentity">
             <p>Professional Identity</p>
             <i class="bi bi-person-lines-fill"></i>
         </a>

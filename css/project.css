@@ -81,11 +81,48 @@ body {
 
 .grid-container {
     display: grid;
-    grid-template-columns: 1fr 1fr;
-    grid-template-areas: "afbeelding" "text";
+    grid-template-columns: 920px 850px 0.1fr;
+    grid-template-rows: 140px 350px 300px 200px;
+    gap: 0px 0px;
+    grid-auto-flow: row;
+    grid-template-areas:
+    "text text ."
+    "afbeelding text2 ."
+    "text3 afbeelding2 ."
+    "text4 text4 ."
+    "text5 text5 .";
     animation-name: block;
     animation-duration: 1s;
 }
+
+.text {
+    grid-area: text;
+}
+
+.afbeelding {
+    grid-area: afbeelding;
+}
+
+.text2 {
+    grid-area: text2;
+}
+
+.text3 {
+    grid-area: text3;
+}
+
+.afbeelding2 {
+    grid-area: afbeelding2;
+}
+
+.text4 {
+    grid-area: text4;
+}
+
+.text5 {
+    grid-area: text5;
+}
+
 
 .afbeelding img {
     height: 300px;
@@ -95,23 +132,89 @@ body {
     grid-area: afbeelding;
 }
 
-.text {
-    margin-left: -30px;
-    grid-area: text;
+.afbeelding2 img {
+    height: 300px;
+    margin: 0px 100px 100px 100px;
+    border-radius: 20px;
+    box-shadow: 0 3px 20px rgba(255, 255, 255, 0.5);
+    grid-area: afbeelding;
 }
 
-.text .artikel p {
+.text {
+    margin-left: 100px;
+    grid-area: text;
     font-family: "Quicksand Light", sans-serif;
     font-size: 20px;
     margin-bottom: 30px;
 }
 
+.text2 {
+    margin-left: 100px;
+    grid-area: text2;
+    font-family: "Quicksand Light", sans-serif;
+    font-size: 20px;
+    margin-bottom: 30px;
+}
+
+.text3 {
+    margin-left: 100px;
+    grid-area: text3;
+    font-family: "Quicksand Light", sans-serif;
+    font-size: 20px;
+    margin-bottom: 30px;
+}
+
+.text4 {
+    margin-left: 100px;
+    grid-area: text4;
+    font-family: "Quicksand Light", sans-serif;
+    font-size: 20px;
+    margin-bottom: 30px;
+}
+
+.text4 h1 {
+    font-family: "Montserrat-Bold", serif;
+    font-size: 30px;
+}
+
+.text5 {
+    margin-left: 100px;
+    grid-area: text5;
+    font-family: "Quicksand Light", sans-serif;
+    font-size: 20px;
+    margin-bottom: 30px;
+}
+
+.text5 h3 {
+    font-family: "Montserrat-Bold", serif;
+    font-size: 30px;
+}
+
+.download {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.download a {
+    font-size: 60px;
+    color: white;
+    text-decoration: none;
+    transform: translateY(-50px);
+    transition: all .5s;
+}
+
+.download a:hover {
+    transform: translateY(-30px);
+    transition: all .5s;
+}
+
 @keyframes block {
     0% {
-        margin-top: 0px;
+        margin-top: -75px;
     }
     100% {
-        margin-top: 75px;
+        margin-top: 0px;
     }
 }
 

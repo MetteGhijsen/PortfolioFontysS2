@@ -85,14 +85,13 @@ body {
 
 .grid-container {
     display: grid;
-    grid-template-columns: 920px 850px 0.1fr;
-    grid-template-rows: 140px 350px 300px 200px;
+    grid-template-columns: 750px 850px;
+    grid-template-rows: 140px 710px 180px 260px;
     gap: 0px 0px;
     grid-auto-flow: row;
     grid-template-areas:
     "text text ."
     "afbeelding text2 ."
-    "text3 afbeelding2 ."
     "text4 text4 ."
     "text5 text5 .";
     animation-name: block;
@@ -111,14 +110,6 @@ body {
     grid-area: text2;
 }
 
-.text3 {
-    grid-area: text3;
-}
-
-.afbeelding2 {
-    grid-area: afbeelding2;
-}
-
 .text4 {
     grid-area: text4;
 }
@@ -129,15 +120,7 @@ body {
 
 
 .afbeelding img {
-    height: 300px;
-    margin: 0px 100px 100px 100px;
-    border-radius: 20px;
-    box-shadow: 0 3px 20px rgba(255, 255, 255, 0.5);
-    grid-area: afbeelding;
-}
-
-.afbeelding2 img {
-    height: 300px;
+    height: 680px;
     margin: 0px 100px 100px 100px;
     border-radius: 20px;
     box-shadow: 0 3px 20px rgba(255, 255, 255, 0.5);
@@ -160,20 +143,11 @@ body {
     margin-bottom: 30px;
 }
 
-.text3 {
-    margin-left: 100px;
-    grid-area: text3;
-    font-family: "Quicksand Light", sans-serif;
-    font-size: 20px;
-    margin-bottom: 30px;
-}
-
 .text4 {
     margin-left: 100px;
     grid-area: text4;
     font-family: "Quicksand Light", sans-serif;
     font-size: 20px;
-    margin-bottom: 30px;
 }
 
 .text4 h1 {
@@ -195,6 +169,7 @@ body {
 }
 
 .download {
+    margin-bottom: -50px;
     display: flex;
     flex-direction: column;
     align-items: center;

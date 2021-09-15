@@ -1,5 +1,6 @@
 html, body {
     height: 100%;
+    min-height: 100%;
     margin: 0;
 }
 
@@ -33,6 +34,10 @@ body {
     font-family: "Montserrat-Bold", serif;
     color: white;
     background-image: url("../img/portfolioachtergrondV4.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
 }
 
 .taakbalk{
@@ -63,6 +68,7 @@ body {
 }
 
 .container{
+    position: relative;
     height: 100%;
 }
 
@@ -81,11 +87,11 @@ body {
     grid-template-areas: "afbeelding" "text";
     grid-template-columns: 1fr 1fr;
     margin: 75px;
-    animation-name: block;
+    animation-name: slidein;
     animation-duration: 1s;
 }
 
-@keyframes block {
+@keyframes slidein {
     0% {
         margin-top: 0px;
     }
@@ -138,8 +144,9 @@ body {
 }
 
 .copyrightnote{
-    positiom: absolute;
+    margin-top: 250px;
     font-family:"Quicksand Light";
+    width: 100%;
     font-size: 15px;
     color: white;
     text-align: center;

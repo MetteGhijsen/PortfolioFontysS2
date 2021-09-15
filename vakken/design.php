@@ -36,12 +36,15 @@
             </div>
 
             <div class="artikel">
-                <p> Dit is een poster die ik heb gemaakt in de startweek. De opdracht was om een poster te maken van waar
-                je bent wanneer je twee keer zo oud bent als je nu bent. Ik vond dit een lastige opdracht, omdat ik nog niet helemaal
-                weet waar ik zou zijn over achttien jaar. Daarom heb ik besloten het iets anders aan te pakken dan de rest.</p>
+                <p> Dit is een poster die ik heb gemaakt in de startweek. De opdracht was om een poster te maken van
+                    waar
+                    je bent wanneer je twee keer zo oud bent als je nu bent. Ik vond dit een lastige opdracht, omdat ik
+                    nog niet helemaal
+                    weet waar ik zou zijn over achttien jaar. Daarom heb ik besloten het iets anders aan te pakken dan
+                    de rest.</p>
             </div>
 
-            <a href="../projects/design%20projects" class="btn"> <i
+            <a href="../projects/design%20projects/poster%20launchweek.php" class="btn"> <i
                         class="bi bi-play"></i> Bekijk Project </a>
         </div>
     </div>
@@ -58,8 +61,8 @@
 
             <div class="artikel">
                 <p> Dit is een poster die ik heb moeten maken voor de studiecommissie voor Salve Mundi. Zij organiseren
-                bijlessen en hadden poster nodig om dit te promoten. Als lid van de mediacommissie werd mij gevraagd
-                of ik dit voor hun wilde doen. De poster moest alle benodigde info bevatten en duidelijk zijn.</p>
+                    bijlessen en hadden poster nodig om dit te promoten. Als lid van de mediacommissie werd mij gevraagd
+                    of ik dit voor hun wilde doen. De poster moest alle benodigde info bevatten en duidelijk zijn.</p>
             </div>
 
             <a href="../projects/design%20projects" class="btn"> <i
@@ -74,4 +77,5 @@
         <p>Copyright ©2021 By Mette Ghijsen, All Rights Reserved</p>
     </div>
 </footer>
+
 </html>

@@ -37,6 +37,10 @@ html, body {
 
 body {
     background-image: url("../img/portfolioachtergrondV4.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
     font-family: "Montserrat-Bold", serif;
     color: white;
     display: flex;
@@ -186,7 +190,6 @@ body {
 }
 
 .copyrightnote{
-    positiom: absolute;
     font-family:"Quicksand Light";
     font-size: 15px;
     color: white;

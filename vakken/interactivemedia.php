@@ -27,7 +27,7 @@
 
     <div class="project-group">
         <div class="afbeelding">
-            <img src="https://cdn.statically.io/img/i.pinimg.com/originals/16/38/c4/1638c4515526ecdad29f0e43860ba45b.gif"
+            <img src="../gif/portfoliowebsite.gif"
                  alt="portfolioafbeelding">
         </div>
         <div class="text">

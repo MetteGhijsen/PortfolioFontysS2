@@ -145,7 +145,7 @@ body {
 
 .copyrightnote{
     margin-top: 250px;
-    font-family:"Quicksand Light";
+    font-family:"Quicksand Light", sans-serif;
     width: 100%;
     font-size: 15px;
     color: white;

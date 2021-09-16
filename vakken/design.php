@@ -65,7 +65,7 @@
                     of ik dit voor hun wilde doen. De poster moest alle benodigde info bevatten en duidelijk zijn.</p>
             </div>
 
-            <a href="../projects/design%20projects" class="btn"> <i
+            <a href="../projects/design%20projects/poster%20ehbs.php" class="btn"> <i
                         class="bi bi-play"></i> Bekijk Project </a>
         </div>
     </div>

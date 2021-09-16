@@ -5,7 +5,7 @@
     <meta name="viewport"
           content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <link rel="stylesheet" href="../../css/posterproject.css">
+    <link rel="stylesheet" href="../../css/posterlaunchweekproject.css">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css">
     <link rel="icon" href="../../img/logotjewit.png">
     <title>Portfolio Mette Ghijsen</title>
@@ -20,7 +20,7 @@
         <li class="pijltje"> < </li>
         <li><a href="../../vakken/design.php"> Design </a></li>
         <li class="pijltje"> < </li>
-        <li><a href="../../projects/development%20projects/klikopdeknopproject.php" class="currentpage">Poster
+        <li><a href="../../projects/design%20projects/poster%20launchweek.php" class="currentpage">Poster
                 Launchweek</a></li>
     </div>
 

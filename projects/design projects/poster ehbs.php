@@ -35,6 +35,7 @@
 
     <div class="grid-container">
         <div class="text">
+            <h1>Inleiding</h1>
             <p> Omdat ik lid ben van de mediacommissie binnen Salve Mundi, kreeg ik van de studiecommissie de opdracht
                 om een poster te maken om hun bijlessen te promoten. Het doel van de poster was om duidelijk te maken
                 aan de studenten in het startsemester waar en hoelaat ze ergens moesten zijn om de bijles te volgen.
@@ -44,6 +45,7 @@
             <img id="afbeelding1" src="../../img/design/posterstudiecommissiev3.png" projectimage">
         </div>
         <div class="text2">
+            <h1>Ervaring</h1>
             <p> Als eerste ben ik aan de slag gegaan, en heb ik een custom QR code aangemaakt met de Teams link erin. Ik
                 heb meerdere mensen laten testen of deze werkt, en dat deed het gelukkig. Daarna ben ik gaan nadenken
                 over het design. Salve Mundi heeft een stijlcode. We hebben bepaalde kleuren en lettertypen die we
@@ -69,7 +71,7 @@
                 het echt, en er is niks mis met iets uitprinten om het even te testen.</p>
         </div>
         <div class="text5">
-            <h3>Feedback</h3>
+            <h1>Feedback</h1>
             <p>Ik heb feedback gevraagd aan een aantal mensen, beginnend met mijn opdrachtgever natuurlijk. De poster
                 was in de groepsapp gestuurd van de studiecommissie, en iedereen was positief verrast door de poster. Ik
                 heb veel complimenten mogen ontvangen, en ik ben erg blij dat iedereen tevreden is met mijn design.

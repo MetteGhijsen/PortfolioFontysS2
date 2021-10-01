@@ -27,19 +27,21 @@
 
     <div class="project-group">
         <div class="afbeelding">
-            <img src="../img/placeholder.jpg"
+            <img src="../gif/mediaverkenning2.gif"
                  alt="projectafbeelding">
         </div>
         <div class="text">
             <div class="titel">
-                <p> Project</p>
+                <p> Mediaverkenning</p>
             </div>
 
             <div class="artikel">
-                <p> Projectbeschrijving </p>
+                <p> Om onze opdrachtgever te laten zien wat we voor haar wilden maken, hebben we een soort presentatie opgesteld.
+                Dit is een "boekje" waarin verwerkt staat wie wij zijn, watvoor onderzoek we hebben gedaan, en hoe we dat onderzoek
+                gebruiken om iets moois voor haar te maken.</p>
             </div>
 
-            <a href="../projects/interactive%20media%20projects/portfolioproject.php" class="btn"> <i
+            <a href="../projects/research%20projects/mediaverkenning.php" class="btn"> <i
                         class="bi bi-play"></i> Bekijk Project </a>
         </div>
     </div>

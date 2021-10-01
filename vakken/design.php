@@ -27,7 +27,7 @@
 
     <div class="project-group">
         <div class="afbeelding">
-            <img src="../img/design/posterlaunchweek.png"
+            <img src="../img/design/metteposter.PNG"
                  alt="projectafbeelding">
         </div>
         <div class="text">
@@ -51,7 +51,7 @@
 
     <div class="project-group">
         <div class="afbeelding">
-            <img src="../img/design/ehbsposter.jpg"
+            <img src="../img/design/ehbs.PNG"
                  alt="projectafbeelding">
         </div>
         <div class="text">

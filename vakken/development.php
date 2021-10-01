@@ -44,6 +44,26 @@
                         class="bi bi-play"></i> Bekijk Project </a>
         </div>
     </div>
+
+        <div class="project-group">
+            <div class="afbeelding">
+                <img src="../gif/veranderachtergrond.gif">
+            </div>
+            <div class="text">
+                <div class="titel">
+                    <p> Verander de achtergrond</p>
+                </div>
+
+                <div class="artikel">
+                    <p> Dit is mijn tweede Javascript project. Een lege webpagina waarbij lijkt alsof er niet zoveel gaande
+                        is. Echter verandert de kleur van de pagina, afhankelijk van welke letter je indrukt op je toetsenbord.</p>
+                </div>
+
+                <a href="../projects/development%20projects/veranderachtergrondproject.php" class="btn"> <i
+                            class="bi bi-play"></i> Bekijk Project </a>
+            </div>
+        </div>
+    </div>
 </div>
 
 </body>

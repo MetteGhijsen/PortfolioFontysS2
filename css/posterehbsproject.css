@@ -86,14 +86,13 @@ body {
 .grid-container {
     display: grid;
     grid-template-columns: 750px 850px;
-    grid-template-rows: 140px 710px 135px 290px;
+    grid-template-rows: 200px 750px 135px 400px;
     gap: 0px 0px;
     grid-auto-flow: row;
     grid-template-areas:
-    "text text ."
+    "text text2 ."
     "afbeelding text2 ."
-    "text4 text4 ."
-    "text5 text5 .";
+    "text4 text5 .";
     animation-name: block;
     animation-duration: 1s;
 }
@@ -121,7 +120,7 @@ body {
 
 .afbeelding img {
     height: 680px;
-    margin: 0px 100px 100px 100px;
+    margin: 100px 100px 100px 100px;
     border-radius: 20px;
     box-shadow: 0 3px 20px rgba(255, 255, 255, 0.5);
     grid-area: afbeelding;
@@ -148,9 +147,10 @@ body {
     grid-area: text4;
     font-family: "Quicksand Light", sans-serif;
     font-size: 20px;
+    margin-top: 50px;
 }
 
-.text4 h1 {
+h1 {
     font-family: "Montserrat-Bold", serif;
     font-size: 30px;
 }
@@ -161,11 +161,7 @@ body {
     font-family: "Quicksand Light", sans-serif;
     font-size: 20px;
     margin-bottom: 30px;
-}
-
-.text5 h3 {
-    font-family: "Montserrat-Bold", serif;
-    font-size: 30px;
+    margin-top: 50px;
 }
 
 .download {
@@ -173,6 +169,7 @@ body {
     display: flex;
     flex-direction: column;
     align-items: center;
+    margin-top: 30px;
 }
 
 .download a {

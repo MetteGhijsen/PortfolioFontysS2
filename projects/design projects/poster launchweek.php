@@ -35,6 +35,7 @@
 
     <div class="grid-container">
         <div class="text">
+            <h1>Inleiding</h1>
             <p> Aan het begin van de launchweek kregen wij als klas de opdracht om een filmposter te maken over hoe ons
                 leven eruit zou zien als we twee keer zo oud zouden zijn als nu.
                 Wat gingen we doen in de toekomst? Welke leuke dingen waren er gebeurd? Hoe zou ons leven eruit zien? Ik
@@ -45,6 +46,7 @@
             <img id="afbeelding1" src="../../img/design/posterV11.png" alt="projectimage">
         </div>
         <div class="text2">
+            <h1>Ervaring</h1>
             <p> Toen ik eenmaal mijn poster bestand in Photoshop aanmaakte heb ik echt een tijdje naar de lege pagina
                 gestaard. Ik wist totaal niet wat ik wilde. Op een gegeven moment ben ik toen begonnen met het maken van
                 wat schetsen met mijn tekentablet. Ik zocht een coole manier om mijn naam te branden. Het leek me enorm
@@ -74,7 +76,7 @@
             ik wel dat docenten hier blijer mee zullen zijn in de toekomst. Ik moet echter wel nog leren hoe Illustrator werkt.</p>
         </div>
         <div class="text5">
-            <h3>Feedback</h3>
+            <h1>Feedback</h1>
             <p>De feedback die ik kreeg was erg positief, en daar was ik eigenlijk wel verbaasd over. Hoewel ik erg blij
                 was met mijn poster,
                 had ikzelf niet het idee dat hij volledig voldeed aan de opdracht. Docenten zeiden dat ze mijn design

@@ -10,6 +10,11 @@ html, body {
 }
 
 @font-face {
+    font-family: "Montserrat-Regular";
+    src: url("../fonts/montserrat/Montserrat-Regular.otf") format("truetype");
+}
+
+@font-face {
     font-family: "Montserrat-Bold";
     src: url("../fonts/montserrat/Montserrat-Bold.otf") format("truetype");
 }
@@ -51,7 +56,7 @@ body {
 .taakbalk li a {
     text-decoration: none;
     color: white;
-    font-family: "Quicksand Light", sans-serif;
+    font-family: "Montserrat-Regular", sans-serif;
 }
 
 .taakbalk li{
@@ -119,7 +124,7 @@ body {
 }
 
 .text .artikel p{
-    font-family: "Quicksand Light",sans-serif;
+    font-family: "Montserrat-Regular",sans-serif;
     font-size: 20px;
     margin-bottom: 30px;
 }

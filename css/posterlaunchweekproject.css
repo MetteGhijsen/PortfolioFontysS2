@@ -9,6 +9,11 @@ html, body {
 }
 
 @font-face {
+    font-family: "Montserrat-Regular";
+    src: url("../fonts/montserrat/Montserrat-Regular.otf") format("truetype");
+}
+
+@font-face {
     font-family: "Montserrat-Bold";
     src: url("../fonts/montserrat/Montserrat-Bold.otf") format("truetype");
 }
@@ -50,7 +55,7 @@ body {
 .taakbalk li a {
     text-decoration: none;
     color: white;
-    font-family: "Quicksand Light", sans-serif;
+    font-family: "Montserrat-Regular", sans-serif;
 }
 
 .taakbalk li {
@@ -77,7 +82,7 @@ body {
 }
 
 .projectinfo {
-    font-family: "Quicksand Light", sans-serif;
+    font-family: "Montserrat-Regular", sans-serif;
     font-size: 25px;
     color: white;
     margin-left: 100px;
@@ -129,7 +134,7 @@ body {
 .text {
     margin-left: 100px;
     grid-area: text;
-    font-family: "Quicksand Light", sans-serif;
+    font-family: "Montserrat-Regular", sans-serif;
     font-size: 20px;
     margin-bottom: 30px;
 }
@@ -137,7 +142,7 @@ body {
 .text2 {
     margin-left: 100px;
     grid-area: text2;
-    font-family: "Quicksand Light", sans-serif;
+    font-family: "Montserrat-Regular", sans-serif;
     font-size: 20px;
     margin-bottom: 30px;
 }
@@ -146,7 +151,7 @@ body {
     margin-top: 30px;
     margin-left: 100px;
     grid-area: text4;
-    font-family: "Quicksand Light", sans-serif;
+    font-family: "Montserrat-Regular", sans-serif;
     font-size: 20px;
 }
 
@@ -159,7 +164,7 @@ h1 {
     margin-top: 30px;
     margin-left: 100px;
     grid-area: text5;
-    font-family: "Quicksand Light", sans-serif;
+    font-family: "Montserrat-Regular", sans-serif;
     font-size: 20px;
     margin-bottom: 30px;
 }

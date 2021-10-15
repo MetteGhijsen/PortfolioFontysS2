@@ -15,6 +15,7 @@
         <p>Mette Ghijsen</p>
     </div>
     <div class="leeruitkomsten">
+        <li><a href="overmij.php">Over mij<i> →</i></a></li>
         <li><a href="leeruitkomsten.php">Leeruitkomsten<i> →</i></a></li>
     </div>
 </div>

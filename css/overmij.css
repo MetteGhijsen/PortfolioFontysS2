@@ -1,0 +1,166 @@
+html, body {
+    height: 100%;
+    margin: 0;
+}
+
+@font-face {
+    font-family: "Montserrat-Regular";
+    src: url("../fonts/montserrat/Montserrat-Regular.otf") format("truetype");
+}
+
+@font-face {
+    font-family: "Montserrat-Bold";
+    src: url("../fonts/montserrat/Montserrat-Bold.otf") format("truetype");
+}
+
+@font-face {
+    font-family: "Quicksand Light";
+    src: url("../fonts/quicksand/Quicksand-Light.ttf") format("truetype");
+}
+
+/* width */
+::-webkit-scrollbar {
+    width: 4px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+    background: black;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+    background: #0900b6;
+    border-radius: 5px;
+}
+
+body {
+    background-image: url("../img/portfolioachtergrondV4.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    font-family: "Montserrat-Bold", serif;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.taakbalk{
+    margin-left: 100px;
+    margin-top: 25px;
+    margin-bottom: -75px;
+    font-size: 10px;
+    font-weight: normal;
+}
+
+.taakbalk li a {
+    text-decoration: none;
+    color: white;
+    font-family: "Montserrat-Regular", sans-serif;
+}
+
+.taakbalk li{
+    display: inline;
+    font-size: 35px;
+}
+
+.taakbalk .currentpage{
+    color: #0900b6;
+}
+
+.pijltje{
+    font-family: "Quicksand Light", sans-serif;
+}
+
+.hoofdtekst {
+    display: flex;
+    justify-content: flex-start;
+    font-size: 60px;
+    margin-left: 100px;
+    margin-top: 30px;
+    margin-bottom: -30px;
+    text-shadow: 5px 5px #0900b6;
+}
+
+@keyframes block {
+    0% {
+        margin-top: -50px;
+    }
+    100% {
+        margin-top: 0;
+    }
+}
+
+.grid-container {
+    display: grid;
+    grid-template-columns: 1.7fr 1.7fr;
+    grid-template-rows: 3.4fr;
+    gap: 0px 0px;
+    grid-auto-flow: row;
+    grid-template-areas:
+    "tekst foto .";
+    animation-name: block;
+    animation-duration: 1.5s;
+}
+
+.foto { grid-area: foto; }
+
+.tekst {
+    margin-left: 100px;
+    font-family: "Montserrat-Regular", sans-serif;
+    font-size: 22px;
+    margin-bottom: 30px;
+    grid-area: tekst;
+}
+
+h1 {
+    font-family: "Montserrat-Bold", serif;
+    font-size: 40px;
+}
+
+.foto img{
+    width: 60%;
+    height: auto;
+    margin-left: 102px;
+    margin-top: 106px;
+}
+
+.bijschrift{
+    font-family: "Montserrat-Regular";
+    margin-left: 80px;
+}
+
+.socials{
+    display: flex;
+    justify-content: center;
+}
+
+.socials a img{
+    height: auto;
+    width: 60px;
+    margin: 20px;
+    transition: all .5s;
+}
+
+.socials a img:hover{
+    transform: translateY(-10px);
+    transition: all .5s;
+}
+
+.copyrightnote {
+    font-family: "Quicksand Light";
+    font-size: 15px;
+    color: white;
+    text-align: center;
+}
+
+@keyframes block {
+    0% {
+        margin-top: -50px;
+    }
+    100% {
+        margin-top: 0;
+    }
+}

@@ -38,7 +38,7 @@
             <p> Dit semester moesten we producten maken voor een artiest. De artiest waar onze projectgroep aan gekoppeld werd, was een band genaamd NORE. Om producten te kunnen maken waar zij blij mee zijn, hebben we veel met Tessa Meester (de zanger van de band) gesproken. Deze mediaverkenning is wat daar uit kwam na drie weken.</p>
         </div>
         <div class="pdf">
-            <iframe src="../../pdf/brandbook5.pdf" width="700px" height="700px"></iframe>
+            <iframe src="../../pdf/brandbook4.pdf" width="700px" height="700px"></iframe>
         </div>
         <div class="text2">
             <h1>Ervaring</h1>

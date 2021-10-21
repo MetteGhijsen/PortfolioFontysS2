@@ -60,7 +60,7 @@
         </div>
         <div class="text5">
             <h1>Feedback</h1>
-            <p>De feedback moet nog genoteerd worden.</p>
+            <p>Voor dit project heb ik feedback gevraagd aan Frank Roosen. Hij vond dit een erg grappig project, en hij zei dat het een leuke manier was om switches en classlist.toggle toe te passen. Hij had de maandag voordat hij feedback gaf een lecture gegeven over het uitlezen van keys, en de informatie die erbij hoort. Het doel van die lecture was dat je begreep dat toetsen of een muishover informatie met zich meesturen. Hij was van mening dat ik dat nog onvoldoende hier had toegepast. Hij vetrelde dat ik een keer een website kan maken die van kleur verandert afhankelijk van de coördinaten van je muis. Dit is een mooi vervolgproject waar ik misschien nog eens naar ga kijken.</p>
         </div>
         <div class="download">
             <h2>Klik hier om het project te downloaden</h2>

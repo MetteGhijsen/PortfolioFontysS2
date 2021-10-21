@@ -149,10 +149,12 @@ body {
     transition: all .5s;
 }
 
-.copyrightnote{
-    margin-top: 250px;
-    font-family:"Quicksand Light", sans-serif;
-    width: 100%;
+.container{
+    height: 100%;
+}
+
+.copyrightnote {
+    font-family: "Quicksand Light";
     font-size: 15px;
     color: white;
     text-align: center;

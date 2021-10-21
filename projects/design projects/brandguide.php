@@ -5,7 +5,7 @@
     <meta name="viewport"
           content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <link rel="stylesheet" href="../../css/mediaverkenningproject.css">
+    <link rel="stylesheet" href="../../css/brandbookproject.css">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css">
     <link rel="icon" href="../../img/logotjewit.png">
     <title>Portfolio Mette Ghijsen</title>
@@ -35,27 +35,38 @@
     <div class="grid-container">
         <div class="text">
             <h1>Inleiding</h1>
-            <p> Dit semester moesten we producten maken voor een artiest. De artiest waar onze projectgroep aan gekoppeld werd, was een band genaamd NORE. Om producten te kunnen maken waar zij blij mee zijn, hebben we veel met Tessa Meester (de zanger van de band) gesproken. Deze mediaverkenning is wat daar uit kwam na drie weken.</p>
+            <p> Voor sprint 1 van ons project moesten we een brandbook maken. Dit was voor ons een erg lastige opdracht, aangezien we de band niet echt deden rebranden. NORE had al hun eigen logo en identiteit, en daar wilden we niet teveel aan veranderen. Dit brandbook was dus zeker weten een uitdaging.</p>
+        </div>
+        <div class="image">
+            <img src="../../img/design/logonorecomparison.png" alt="logonorecomparison">
+        </div>
+        <div class="image2">
+            <img src="../../img/design/kleurtjes.jfif" alt="kleurennore">
         </div>
         <div class="pdf">
             <iframe src="../../pdf/brandbook4.pdf" width="700px" height="700px"></iframe>
         </div>
         <div class="text2">
             <h1>Ervaring</h1>
-            <p>Alles is kapotWat zouden we mogelijk allemaal kunnen maken voor NORE? We hadden een lijst opgesteld en besloten de leukste dingen daaruit te halen. Daarna besloten we een meeting te plannen met Tessa, aangezien zij ons eerste aanspreekpunt was. We hebben een lijst met vragen opgesteld, zodat we de band en hun aesthetic beter konden leren kennen. We hebben Tessa ook 23plusone laten doen, om te kijken welk gevoel we met onze producten moesten gaan overbrengen. Nadat Tessa ons wat verteld had over de band, besloten we onze ideeën met haar te delen. Ze was hier erg positief over, en we kregen haar toestemming om wat dingetjes voor haar uit te werken. We hadden haar nog gevraagd om een moodboard te maken, en om wat foto’s te sturen van websites die zij mooi vindt. Op basis van wat ze ons gestuurd had, besloten we zelf een moodboard te maken om zo de stijl te bepalen waarin we onze producten mogelijk konden maken. Daarna hebben we een stylesheet gemaakt voor onze mediaverkenning, en zijn we allemaal individueel aan de slag gegaan. Iedereen was verantwoordelijk voor zijn eigen onderdeel. Mijn onderdelen waren de cover, de “ontmoet de artiest”-pagina en alles over de website (de website layout, het foto album en de random art knop). Uiteindelijk hebben we op vrijdag 24 september onze mediaverkenning aan haar gepresenteerd, en ze was heel erg tevreden. Ze wilde heel graag een fotoshoot met ons doen, en daarnaast was zo ook erg positief over het idee van een foto-album op haar website. De volgende stap voor ons project was om ontwerpen te gaan maken voor haar producten.</p>
+            <p>Als eerste ben ik begonnen met vragen naar de kleuren die Tessa mooi vond. Ik was verantwoordelijk voor de website, dus alle kleuren die ze doorgaf werden gebruikt voor het kleurenpalet van de site. Ze gaf aan de kleuren rood, groen, blauw en paars erg mooi te vinden. Echter wilde ze niet blauw en paars, of paars en rood langs elkaar zien. Deze info gaf mij zeker weten iets om mee te werken, en ik besloot een kleurenpalet op te stellen zodat Tessa precies kon kiezen wat ze mooi vond. Na heen en weer te hebben gecommuniceerd zijn we gekomen tot de kleuren die op dit moment te vinden zijn op de “website kleuren”-pagina. Deze kleuren heeft Tessa gekozen omdat ze dicht bij haar staan, en ze deze kleuren vaak gebruikt in haar kunst. De kunst en de website zullen dus mooi samen gaan.
+                <br></br>
+                Daarna ben ik begonnen met het aanpassen van NORE’s logo. Haar oude logo was een tekening die ze had ingescand. Daardoor was hij erg onscherp, en van matige kwaliteit. Ik heb in Illustrator het logo overgetrokken en er een SVG van gemaakt, zodat het logo makkelijk bruikbaar en van goede kwaliteit was. Daarnaast matcht de kleur van het logo nu ook met de rest van het brandbook. Daarna heb ik er in Photoshop nog wat filters overheen gegooid zodat het logo toch een beetje de vintage/ingescande look heeft. We hebben ook besloten dit logo later te gebruiken voor de website.
+            </p>
         </div>
         <div class="text4">
             <h1>Wat heb ik geleerd?</h1>
-            <p>Ik heb geleerd dat wanneer je samen met een groep mensen aan iets grafisch werkt, je allemaal hetzelfde programma moet gebruiken. Bij ons gebruikte de een Photoshop, en de ander Illustrator. Toen we op het einde al onze pagina’s bij elkaar gingen voegen, heeft dit ons een hoop stress opgeleverd. Ik heb zelf nu een begin gemaakt aan de basis van Illustrator, voornamelijk omdat ik daar svg’s mee kan maken. Dit kan nog goed van pas komen in de toekomst bij het maken van iconen en dergelijke. Dit zal waarschijnlijk dan ook het programma zijn dat mijn projectgroep in het vervolg gaat gebruiken.</p>
+            <p>Ik heb geleerd hoe ik moet communiceren met een opdrachtgever. Soms bleek dit namelijk erg lastig te zijn omdat ik best wel geneigd ben ik “vaktaal” te praten. Iemand die geen ICT studeert weet bijvoorbeeld niet wat Javascript is. Ik heb heel veel gepraat met Tessa, en ik denk dat mijn professionele communicatievaardigheden erg omhoog zijn gegaan. Daarnaast heb ik geleerd om iemand wensen te vertalen naar een brandbook. Ik ben erg blij met mijn vooruitgang, en ik denk echt dat ik aan het groeien ben op professioneel gebied.</p>
         </div>
         <div class="text5">
             <h1>Feedback</h1>
-            <p>We hebben als groep om feedback gevraagd bij Nick, en hij was over het algemeen erg tevreden. Hij vond de presentatie er mooi uit zien, maar hij had wel wat dingen aan te merken op onze spelling en grammatica. Dit waren allemaal kleine foutjes, die we vrij snel hadden verbeterd. Ook suggesteerde Nick om het onderzoek en de producten op te splitsen. Het was voor hem namelijk tijdens de presentatie niet helemaal duidelijk waar het onderzoek stopte, en onze producten begonnen. Dit hebben we opgelost door wat extra slides toe te voegen waar het onderzoek begint en eindigt. Verder hebben we nog wat dingen moeten aanpassen aan de bronvermelding, aangezien dit op sommige stukken onduidelijk was.</p>
+            <p>Bij de oplevering van sprint 1 hebben we ons brandbook gepresenteerd aan Wouter van het bedrijf Happy Horizon. Hij vond mijn deel van het brandbook erg goed uitgewerkt en goed beargumenteerd. Hij vond dat ik een goede reden had voor de gekozen kleuren, en ook de lettertypen die ik had gekozen vond hij goed aansluiten bij NORE en hun waarden. Verder vond hij ons groepje een van de betere en kregen we complimenten op de samenhang van het document. <br> </br>
+                Daarnaast hebben we het brandbook ook laten zien aan Tessa. Ze was heel enthousiast over de fotoshoot locaties die we hadden uitgezocht, en ze vond onze filters geïnspireerd op de eighties heel erg mooi. Ze was ook erg tevreden over de website kleuren en lettertypen.
+            </p>
         </div>
     </div>
     <div class="download">
         <h2>Klik hier om het project te downloaden</h2>
-        <a href="../../pdf/brandbook5.pdf" download="brandbook5.pdf">
+        <a href="../../pdf/brandbook4.pdf" download="brandbook.pdf">
             <p><i class="bi bi-download"></i></p>
         </a>
     </div>

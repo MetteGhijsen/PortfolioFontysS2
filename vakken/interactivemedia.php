@@ -44,12 +44,32 @@
                         class="bi bi-play"></i> Bekijk Project </a>
         </div>
     </div>
+    <div class="project-group">
+        <div class="afbeelding">
+            <img src="../img/placeholder.jpg"
+                 alt="afbeeldinwebsitenore">
+        </div>
+        <div class="text">
+            <div class="titel">
+                <p> Website NORE</p>
+            </div>
+
+            <div class="artikel">
+                <p> Voor ons groepsproject dit semester moesten we een website maken voor een opdrachtgever. Onze oprachtgever
+                was Tessa Meester, lid van de band NORE. We hebben haar geholpen met de website en de branding van de band.</p>
+            </div>
+
+            <a href="../projects/interactive%20media%20projects/websiteNORE.php" class="btn"> <i
+                        class="bi bi-play"></i> Bekijk Project </a>
+        </div>
+    </div>
+    <footer>
+        <div class="copyrightnote">
+            <p>Copyright ©2021 By Mette Ghijsen, All Rights Reserved</p>
+        </div>
+    </footer>
 </div>
 
 </body>
-<footer>
-    <div class="copyrightnote">
-        <p>Copyright ©2021 By Mette Ghijsen, All Rights Reserved</p>
-    </div>
-</footer>
+
 </html>

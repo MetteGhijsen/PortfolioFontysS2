@@ -51,6 +51,25 @@
 
     <div class="project-group">
         <div class="afbeelding">
+            <img src="../img/design/brandbookafbeelding.png"
+                 alt="projectafbeelding">
+        </div>
+        <div class="text">
+            <div class="titel">
+                <p> Brandguide NORE</p>
+            </div>
+
+            <div class="artikel">
+                <p> Tijdens sprint 1 van ons groepsproject hebben we met z’n allen een brandguide opgesteld voor onze stakeholder NORE. In deze brandguide staat voor elk product van ons project uitgelegd wat ongeveer de styling wordt. Denk hierbij aan kleuren, lettertypen of passende foto’s. </p>
+            </div>
+
+            <a href="../projects/design%20projects/brandguide.php" class="btn"> <i
+                        class="bi bi-play"></i> Bekijk Project </a>
+        </div>
+    </div>
+
+    <div class="project-group">
+        <div class="afbeelding">
             <img src="../img/design/ehbs.PNG"
                  alt="projectafbeelding">
         </div>
@@ -69,32 +88,11 @@
                         class="bi bi-play"></i> Bekijk Project </a>
         </div>
     </div>
-
-    <div class="project-group">
-        <div class="afbeelding">
-            <img src="../img/design/brandbook.PNG"
-                 alt="projectafbeelding">
-        </div>
-        <div class="text">
-            <div class="titel">
-                <p> Brandguide NORE</p>
-            </div>
-
-            <div class="artikel">
-                <p> Tijdens sprint 1 van ons groepsproject hebben we met z’n allen een brandguide opgesteld voor onze stakeholder NORE. In deze brandguide staat voor elk product van ons project uitgelegd wat ongeveer de styling wordt. Denk hierbij aan kleuren, lettertypen of passende foto’s. </p>
-            </div>
-
-            <a href="../projects/design%20projects/brandguide.php" class="btn"> <i
-                        class="bi bi-play"></i> Bekijk Project </a>
-        </div>
-    </div>
-</div>
-
-</body>
 <footer>
     <div class="copyrightnote">
         <p>Copyright ©2021 By Mette Ghijsen, All Rights Reserved</p>
     </div>
 </footer>
-
+</div>
+</body>
 </html>

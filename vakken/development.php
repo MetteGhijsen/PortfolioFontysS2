@@ -63,13 +63,12 @@
                             class="bi bi-play"></i> Bekijk Project </a>
             </div>
         </div>
-    </div>
-</div>
 
-</body>
 <footer>
     <div class="copyrightnote">
         <p>Copyright ©2021 By Mette Ghijsen, All Rights Reserved</p>
     </div>
 </footer>
+</div>
+</body>
 </html>

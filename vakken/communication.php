@@ -27,22 +27,60 @@
 
     <div class="project-group">
         <div class="afbeelding">
-            <img src="../img/placeholder.jpg"
+            <img src="../img/communication/feedpulse.png"
                  alt="projectafbeelding">
         </div>
         <div class="text">
             <div class="titel">
-                <p> Project</p>
+                <p> Feedpulse </p>
             </div>
 
             <div class="artikel">
-                <p> Projectbeschrijving </p>
+                <p> In mijn persoonlijke feedpulse leg ik alle feedbackmomenten vast die ik heb gehad met leraren of opdrachtgevers. Deze feedback heb ik vervolgens toegepast in mijn projecten.</p>
             </div>
 
             <a href="../projects/interactive%20media%20projects/portfolioproject.php" class="btn"> <i
                         class="bi bi-play"></i> Bekijk Project </a>
         </div>
     </div>
+
+        <div class="project-group">
+            <div class="afbeelding">
+                <img src="../img/communication/groepsproject.png"
+                     alt="projectafbeelding">
+            </div>
+            <div class="text">
+                <div class="titel">
+                    <p>Groepsproject</p>
+                </div>
+
+                <div class="artikel">
+                    <p> Tijdens mijn groepsproject van het tweede semester heb ik dagelijks moeten communiceren met mijn groep. Dit deden we door middel van Whatsapp of Microsoft Teams. Daarnaast hebben we dagelijks in de ochtend stand-ups gehad, en tussendoor hadden we opleverpunten van ons werk.</p>
+                </div>
+
+                <a href="../projects/interactive%20media%20projects/portfolioproject.php" class="btn"> <i
+                            class="bi bi-play"></i> Bekijk Project </a>
+            </div>
+    </div>
+
+        <div class="project-group">
+            <div class="afbeelding">
+                <img src="../img/communication/externepartners.png"
+                     alt="projectafbeelding">
+            </div>
+            <div class="text">
+                <div class="titel">
+                    <p>Externe partners</p>
+                </div>
+
+                <div class="artikel">
+                    <p>Van onze projectgroep was ik de persoon die contact had met onze opdrachtgever. Om erachter te komen wat ze precies wilde, heb ik bijna wekelijks gesprekken met haar gehad. </p>
+                </div>
+
+                <a href="../projects/interactive%20media%20projects/portfolioproject.php" class="btn"> <i
+                            class="bi bi-play"></i> Bekijk Project </a>
+            </div>
+        </div>
     <footer>
         <div class="copyrightnote">
             <p>Copyright ©2021 By Mette Ghijsen, All Rights Reserved</p>

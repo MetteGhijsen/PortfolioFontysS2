@@ -64,6 +64,24 @@
             </div>
         </div>
 
+    <div class="project-group">
+        <div class="afbeelding">
+            <img src="../gif/todolistgif.gif">
+        </div>
+        <div class="text">
+            <div class="titel">
+                <p> To do list</p>
+            </div>
+
+            <div class="artikel">
+                <p> Dit is een lijst waar je al je taken voor een dag op kan zetten. Wanneer je je taak hebt voltooid, kun je deze afstrepen.</p>
+            </div>
+
+            <a href="../projects/development%20projects/todolistproject.php" class="btn"> <i
+                        class="bi bi-play"></i> Bekijk Project </a>
+        </div>
+    </div>
+
 <footer>
     <div class="copyrightnote">
         <p>Copyright ©2021 By Mette Ghijsen, All Rights Reserved</p>

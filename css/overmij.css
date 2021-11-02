@@ -127,12 +127,8 @@ h1 {
     margin-top: 106px;
 }
 
-.bijschrift{
-    font-family: "Montserrat-Regular";
-    margin-left: 80px;
-}
-
 .socials{
+    margin-top: 80px;
     display: flex;
     justify-content: center;
 }

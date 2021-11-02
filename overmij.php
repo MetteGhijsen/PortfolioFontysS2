@@ -34,10 +34,7 @@
         </p>
     </div>
     <div class="foto">
-        <img src="img/droneimg.jpg" alt="fotomette">
-        <div class="bijschrift">
-        <p>Dit is een afbeelding van de drone die ik gemaakt heb voor mijn profielwerkstuk</p>
-        </div>
+        <img src="img/fotomette2.png" alt="fotomette">
     </div>
 </div>
 <div class="socials">

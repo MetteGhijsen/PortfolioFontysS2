@@ -29,7 +29,7 @@
 
     <div class="projectinfo">
         <p><i class="bi bi-chat"></i> Communication</p>
-        <p><i class="bi bi-people-fill"></i> Groepsproject</p>
+        <p><i class="bi bi-people-fill"></i> Groep</p>
     </div>
 
     <div class="grid-container">

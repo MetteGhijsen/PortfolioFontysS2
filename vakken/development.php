@@ -78,7 +78,25 @@
             </div>
 
             <a href="../projects/development%20projects/todolistproject.php" class="btn"> <i
-                        class="bi bi-play"></i> Bekijk Project </a>
+                        class="bi bi-play"></i> Documentatie incompleet </a>
+        </div>
+    </div>
+
+    <div class="project-group">
+        <div class="afbeelding">
+            <img src="../gif/rockpaperscissors.gif">
+        </div>
+        <div class="text">
+            <div class="titel">
+                <p> Rock-paper-scissors</p>
+            </div>
+
+            <div class="artikel">
+                <p> Als vierde POC heb ik een steen-papier-schaar game gemaakt. Je speelt het spel tegen de computer, dus het is compleet random of je wint of niet. Alle code is helemaal zelf geschreven, en ik ben erg tevreden met de styling.</p>
+            </div>
+
+            <a href="../projects/development%20projects/todolistproject.php" class="btn"> <i
+                        class="bi bi-play"></i> Documentatie incompleet </a>
         </div>
     </div>
 

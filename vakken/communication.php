@@ -81,6 +81,25 @@
                             class="bi bi-play"></i> Bekijk Project </a>
             </div>
         </div>
+
+    <div class="project-group">
+        <div class="afbeelding">
+            <img src="../img/communication/projectafbeeldingfeedpulse.png"
+                 alt="projectafbeelding">
+        </div>
+        <div class="text">
+            <div class="titel">
+                <p>Feedpulse</p>
+            </div>
+
+            <div class="artikel">
+                <p>Door het hele semester heen heb ik om feedback gevraagd bij docenten. Deze feedback heb ik genoteerd in Feedpulse zodat ik mijn vooruitgang bij kan houden. </p>
+            </div>
+
+            <a href="../projects/communication%20projects/externepend.php" class="btn"> <i
+                        class="bi bi-play"></i> Documentatie incompleet </a>
+        </div>
+    </div>
     <footer>
         <div class="copyrightnote">
             <p>Copyright ©2021 By Mette Ghijsen, All Rights Reserved</p>

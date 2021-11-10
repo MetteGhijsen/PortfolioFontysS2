@@ -51,6 +51,25 @@
 
     <div class="project-group">
         <div class="afbeelding">
+            <img src="../gif/portfoliowebsite.gif"
+                 alt="portfolioafbeelding">
+        </div>
+        <div class="text">
+            <div class="titel">
+                <p> Portfolio Website Design</p>
+            </div>
+
+            <div class="artikel">
+                <p> Dit is een portfolio-website die ik gemaakt heb gedurende dit semester. Hier laat ik mijn ontwerpproces zien.</p>
+            </div>
+
+            <a href="../projects/interactive%20media%20projects/portfolioproject.php" class="btn"> <i
+                        class="bi bi-play"></i> Documentatie incompleet</a>
+        </div>
+    </div>
+
+    <div class="project-group">
+        <div class="afbeelding">
             <img src="../img/design/brandbookafbeelding.png"
                  alt="projectafbeelding">
         </div>
@@ -88,6 +107,45 @@
                         class="bi bi-play"></i> Bekijk Project </a>
         </div>
     </div>
+
+    <div class="project-group">
+        <div class="afbeelding">
+            <img src="../img/design/eftelingposterproject.png"
+                 alt="projectafbeelding">
+        </div>
+        <div class="text">
+            <div class="titel">
+                <p> Poster Efteling</p>
+            </div>
+
+            <div class="artikel">
+                <p> Deze poster heb ik moeten maken ter promotie van een Salve Mundi activiteit. De enige vereiste was dat de datum op de poster te vinden moest zijn.</p>
+            </div>
+
+            <a href="../projects/design%20projects/poster%20ehbs.php" class="btn"> <i
+                        class="bi bi-play"></i> Documentatie incompleet </a>
+        </div>
+    </div>
+
+    <div class="project-group">
+        <div class="afbeelding">
+            <img src="../img/design/neonparty.png"
+                 alt="projectafbeelding">
+        </div>
+        <div class="text">
+            <div class="titel">
+                <p> Poster Neon Party</p>
+            </div>
+
+            <div class="artikel">
+                <p> Dit is een poster die ik heb meoten maken voor de Neon Party van Salve Mundi. De tijd, locatie en datum moesten op de poster te vinden zijn. </p>
+            </div>
+
+            <a href="../projects/design%20projects/poster%20ehbs.php" class="btn"> <i
+                        class="bi bi-play"></i> Documentatie incompleet </a>
+        </div>
+    </div>
+
 <footer>
     <div class="copyrightnote">
         <p>Copyright ©2021 By Mette Ghijsen, All Rights Reserved</p>

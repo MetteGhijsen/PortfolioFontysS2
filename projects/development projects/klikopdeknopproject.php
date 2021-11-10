@@ -15,11 +15,11 @@
 <div class="container">
     <div class="taakbalk">
         <li><a href="../../index.php"> Home </a></li>
-        <li class="pijltje"> < </li>
+        <li class="pijltje"> <</li>
         <li><a href="../../leeruitkomsten.php"> Leeruitkomsten </a></li>
-        <li class="pijltje"> < </li>
+        <li class="pijltje"> <</li>
         <li><a href="../../vakken/development.php"> Development </a></li>
-        <li class="pijltje"> < </li>
+        <li class="pijltje"> <</li>
         <li><a href="../../projects/development%20projects/klikopdeknopproject.php" class="currentpage">Klik op de
                 knop</a></li>
     </div>
@@ -101,19 +101,27 @@
                 dat ik de schermbreedte van de gebruiker uitmeet om de maximale margin te bepalen. Ik vind
                 dit zelf een erg goede suggestie, en dit is zeker iets waar ik meer research naar ga doen.</p>
         </div>
-        <div class="download">
-            <h2>Klik hier om het project te downloaden</h2>
-            <a href="DrukOpDeKnop.zip" download="DrukOpDeKnop.zip">
-                <p><i class="bi bi-download"></i></p>
-            </a>
+        <div class="links">
+            <div class="download">
+                <h2>Klik hier om het project te downloaden</h2>
+                <a href="DrukOpDeKnop.zip" download="DrukOpDeKnop.zip">
+                    <p><i class="bi bi-download"></i></p>
+                </a>
+            </div>
+            <div class="testen">
+                <h2>Klik hier om het project te testen</h2>
+                <a href="webpagina's/drukopdeknop/index.php" target="_blank">
+                    <p><i class="bi bi-play"></i></p>
+                </a>
+            </div>
+                <div class="github">
+                    <h2>Klik hier om het project te bekijken op Github</h2>
+                    <a href="https://github.com/metteghijsen/DrukOpDeKnop" target="_blank">
+                        <img src="../../img/github.png" alt="githublogo" ;
+                    </a>
+                </div>
+            </div>
         </div>
-        <div class="testen">
-            <h2>Klik hier om het project te testen</h2>
-            <a href="webpagina's/drukopdeknop/index.php" target="_blank">
-                <p><i class="bi bi-play"></i></p>
-            </a>
-        </div>
-    </div>
 </body>
 
 <footer>

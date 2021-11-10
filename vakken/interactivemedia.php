@@ -32,7 +32,7 @@
         </div>
         <div class="text">
             <div class="titel">
-                <p> Portfolio Website</p>
+                <p> Portfolio Website (UX)</p>
             </div>
 
             <div class="artikel">
@@ -51,7 +51,7 @@
         </div>
         <div class="text">
             <div class="titel">
-                <p> Website NORE</p>
+                <p> Website NORE (UX)</p>
             </div>
 
             <div class="artikel">

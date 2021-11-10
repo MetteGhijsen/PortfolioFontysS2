@@ -27,6 +27,26 @@
 
     <div class="project-group">
         <div class="afbeelding">
+            <img src="../gif/portfoliowebsite.gif"
+                 alt="portfolioafbeelding">
+        </div>
+        <div class="text">
+            <div class="titel">
+                <p> Portfolio Website Development</p>
+            </div>
+
+            <div class="artikel">
+                <p> Dit is een portfolio-website die ik gemaakt heb gedurende dit semester. Ik wilde graag kijken of ik
+                    vanuit scratch een mooie, functionele website kon maken.</p>
+            </div>
+
+            <a href="../projects/interactive%20media%20projects/portfolioproject.php" class="btn incomplete"> <i
+                        class="bi bi-play"></i> Documentatie incompleet </a>
+        </div>
+    </div>
+
+    <div class="project-group">
+        <div class="afbeelding">
             <img src="../gif/klikopdeknop.gif">
         </div>
         <div class="text">
@@ -99,6 +119,24 @@
                         class="bi bi-play"></i> Documentatie incompleet </a>
         </div>
     </div>
+
+        <div class="project-group">
+            <div class="afbeelding">
+                <img src="../gif/simonsays.gif">
+            </div>
+            <div class="text">
+                <div class="titel">
+                    <p> Simon Says</p>
+                </div>
+
+                <div class="artikel">
+                    <p> Als vijfde POC heb ik het spelletje Simon Says nagemaakt. De bedoeling van dit project was dat alle leerstof die ik tot nu toe had geleerd bij elkaar kwam in één project. Ik denk dat dit aardig gelukt is.</p>
+                </div>
+
+                <a href="../projects/development%20projects/simonsaysproject.php" class="btn"> <i
+                            class="bi bi-play"></i> Bekijk Project </a>
+            </div>
+        </div>
 
 <footer>
     <div class="copyrightnote">

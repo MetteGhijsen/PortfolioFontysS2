@@ -98,7 +98,7 @@
             </div>
 
             <a href="../projects/development%20projects/todolistproject.php" class="btn"> <i
-                        class="bi bi-play"></i> Documentatie incompleet </a>
+                        class="bi bi-play"></i> Bekijk Project </a>
         </div>
     </div>
 

@@ -114,7 +114,7 @@
             <div class="github">
                 <h2>Klik hier om het project te bekijken op Github</h2>
                 <a href="https://github.com/metteghijsen/SimonSays" target="_blank">
-                    <img src="../../img/github.png" alt="githublogo" ;
+                    <img src="../../img/github.png" alt="githublogo">
                 </a>
             </div>
         </div>

@@ -62,17 +62,25 @@
             <h1>Feedback</h1>
             <p>Voor dit project heb ik feedback gevraagd aan Frank Roosen. Hij vond dit een erg grappig project, en hij zei dat het een leuke manier was om switches en classlist.toggle toe te passen. Hij had de maandag voordat hij feedback gaf een lecture gegeven over het uitlezen van keys, en de informatie die erbij hoort. Het doel van die lecture was dat je begreep dat toetsen of een muishover informatie met zich meesturen. Hij was van mening dat ik dat nog onvoldoende hier had toegepast. Hij vetrelde dat ik een keer een website kan maken die van kleur verandert afhankelijk van de coördinaten van je muis. Dit is een mooi vervolgproject waar ik misschien nog eens naar ga kijken.</p>
         </div>
-        <div class="download">
-            <h2>Klik hier om het project te downloaden</h2>
-            <a href="VeranderDeAchtergrond.zip" download="VeranderDeAchtergrond.zip">
-                <p><i class="bi bi-download"></i></p>
-            </a>
-        </div>
-        <div class="testen">
-            <h2>Klik hier om het project te testen</h2>
-            <a href="webpagina's/veranderdeachtergrond/AchtergrondKleurtje/index.php" target="_blank">
-                <p><i class="bi bi-play"></i></p>
-            </a>
+        <div class="links">
+            <div class="download">
+                <h2>Klik hier om het project te downloaden</h2>
+                <a href="VeranderDeAchtergrond.zip" download="todolist.zip">
+                    <p><i class="bi bi-download"></i></p>
+                </a>
+            </div>
+            <div class="testen">
+                <h2>Klik hier om het project te testen</h2>
+                <a href="webpagina's/veranderdeachtergrond/AchtergrondKleurtje/index.php" target="_blank">
+                    <p><i class="bi bi-play"></i></p>
+                </a>
+            </div>
+            <div class="github">
+                <h2>Klik hier om het project te bekijken op Github</h2>
+                <a href="https://github.com/metteghijsen/AchtergrondKleurtje" target="_blank">
+                    <img src="../../img/github.png" alt="githublogo">
+                </a>
+            </div>
         </div>
     </div>
 </body>

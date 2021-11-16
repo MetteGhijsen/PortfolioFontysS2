@@ -40,7 +40,7 @@
 <div class="socials">
     <a href="https://www.linkedin.com/in/mette-ghijsen-857594203/" target="_blank"><img src="img/linkedin.png" alt="linkedin"></a>
     <a href="https://www.instagram.com/metteghijsen/" target="_blank"><img src="img/instagram.png" alt="instagram"></a>
-    <a href="https://github.com/MetteGhijsen" target="_blank"><img src="img/github.png" alt="github"</a>
+    <a href="https://github.com/MetteGhijsen" target="_blank"><img src="img/github.png" alt="github"></a>
 </div>
 <footer>
     <div class="copyrightnote">

@@ -45,6 +45,64 @@
                         class="bi bi-play"></i> Bekijk Project </a>
         </div>
     </div>
+
+    <div class="project-group">
+        <div class="afbeelding">
+            <img src="../img/placeholder.jpg"
+                 alt="projectafbeelding">
+        </div>
+        <div class="text">
+            <div class="titel">
+                <p> APA-opdracht</p>
+            </div>
+
+            <div class="artikel">
+                <p> Dit is een opdracht die ik heb gemaakt om aan te tonen dat ik de APA-bronnotatie begrijp, en kan toepassen.</p>
+            </div>
+
+            <a href="../projects/research%20projects/mediaverkenning.php" class="btn"> <i
+                        class="bi bi-play"></i> Documentatie incompleet </a>
+        </div>
+    </div>
+
+    <div class="project-group">
+        <div class="afbeelding">
+            <img src="../img/placeholder.jpg"
+                 alt="projectafbeelding">
+        </div>
+        <div class="text">
+            <div class="titel">
+                <p> Brand Research</p>
+            </div>
+
+            <div class="artikel">
+                <p> - </p>
+            </div>
+
+            <a href="../projects/research%20projects/mediaverkenning.php" class="btn"> <i
+                        class="bi bi-play"></i> Documentatie incompleet </a>
+        </div>
+    </div>
+
+    <div class="project-group">
+        <div class="afbeelding">
+            <img src="../img/placeholder.jpg"
+                 alt="projectafbeelding">
+        </div>
+        <div class="text">
+            <div class="titel">
+                <p> Javascript libraries research </p>
+            </div>
+
+            <div class="artikel">
+                <p> - </p>
+            </div>
+
+            <a href="../projects/research%20projects/mediaverkenning.php" class="btn"> <i
+                        class="bi bi-play"></i> Documentatie incompleet </a>
+        </div>
+    </div>
+
     <footer>
         <div class="copyrightnote">
             <p>Copyright ©2021 By Mette Ghijsen, All Rights Reserved</p>

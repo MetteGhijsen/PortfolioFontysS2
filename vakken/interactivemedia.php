@@ -41,7 +41,7 @@
             </div>
 
             <a href="../projects/interactive%20media%20projects/portfolioproject.php" class="btn"> <i
-                        class="bi bi-play"></i> Bekijk Project </a>
+                        class="bi bi-play"></i> Documentatie incompleet </a>
         </div>
     </div>
     <div class="project-group">
@@ -60,7 +60,26 @@
             </div>
 
             <a href="../projects/interactive%20media%20projects/websiteNORE.php" class="btn"> <i
-                        class="bi bi-play"></i> Bekijk Project </a>
+                        class="bi bi-play"></i> Documentatie incompleet </a>
+        </div>
+    </div>
+
+    <div class="project-group">
+        <div class="afbeelding">
+            <img src="../img/placeholder.jpg"
+                 alt="afbeeldinwebsitenore">
+        </div>
+        <div class="text">
+            <div class="titel">
+                <p> Rock-paper-scissors (UX)</p>
+            </div>
+
+            <div class="artikel">
+                <p> </p>
+            </div>
+
+            <a href="../projects/interactive%20media%20projects/websiteNORE.php" class="btn"> <i
+                        class="bi bi-play"></i> Documentatie incompleet </a>
         </div>
     </div>
     <footer>

@@ -32,15 +32,53 @@
         </div>
         <div class="text">
             <div class="titel">
-                <p> Project</p>
+                <p> Branding </p>
             </div>
 
             <div class="artikel">
-                <p> Projectbeschrijving </p>
+                <p>  </p>
             </div>
 
             <a href="../projects/interactive%20media%20projects/portfolioproject.php" class="btn"> <i
-                        class="bi bi-play"></i> Bekijk Project </a>
+                        class="bi bi-play"></i> Documentatie incompleet </a>
+        </div>
+    </div>
+
+    <div class="project-group">
+        <div class="afbeelding">
+            <img src="../img/placeholder.jpg"
+                 alt="projectafbeelding">
+        </div>
+        <div class="text">
+            <div class="titel">
+                <p> Storytelling & Gamification </p>
+            </div>
+
+            <div class="artikel">
+                <p>  </p>
+            </div>
+
+            <a href="../projects/interactive%20media%20projects/portfolioproject.php" class="btn"> <i
+                        class="bi bi-play"></i> Documentatie incompleet </a>
+        </div>
+    </div>
+
+    <div class="project-group">
+        <div class="afbeelding">
+            <img src="../img/placeholder.jpg"
+                 alt="projectafbeelding">
+        </div>
+        <div class="text">
+            <div class="titel">
+                <p> Advanced Development </p>
+            </div>
+
+            <div class="artikel">
+                <p>  </p>
+            </div>
+
+            <a href="../projects/interactive%20media%20projects/portfolioproject.php" class="btn"> <i
+                        class="bi bi-play"></i> Documentatie incompleet </a>
         </div>
     </div>
     <footer>

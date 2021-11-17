@@ -15,12 +15,12 @@
 <div class="container">
     <div class="taakbalk">
         <li><a href="../../index.php"> Home </a></li>
-        <li class="pijltje"> <</li>
+        <li class="pijltje"> < </li>
         <li><a href="../../leeruitkomsten.php"> Leeruitkomsten </a></li>
-        <li class="pijltje"> <</li>
+        <li class="pijltje"> < </li>
         <li><a href="../../vakken/development.php"> Development </a></li>
-        <li class="pijltje"> <</li>
-        <li><a href="../../projects/development%20projects/simonsaysproject.php" class="currentpage">Simon Says</a></li>
+        <li class="pijltje"> < </li>
+        <li><a href="../../projects/development%20projects/simonsaysproject.php" class="currentpage"> Simon Says</a></li>
     </div>
 
     <div class="hoofdtekst">

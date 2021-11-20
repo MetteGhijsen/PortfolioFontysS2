@@ -64,24 +64,24 @@
         </div>
     </div>
 
-    <div class="project-group">
-        <div class="afbeelding">
-            <img src="../img/placeholder.jpg"
-                 alt="afbeeldinwebsitenore">
-        </div>
-        <div class="text">
-            <div class="titel">
-                <p> Rock-paper-scissors (UX)</p>
-            </div>
-
-            <div class="artikel">
-                <p> </p>
-            </div>
-
-            <a href="../projects/interactive%20media%20projects/websiteNORE.php" class="btn"> <i
-                        class="bi bi-play"></i> Documentatie incompleet </a>
-        </div>
-    </div>
+<!--    <div class="project-group">-->
+<!--        <div class="afbeelding">-->
+<!--            <img src="../img/placeholder.jpg"-->
+<!--                 alt="afbeeldinwebsitenore">-->
+<!--        </div>-->
+<!--        <div class="text">-->
+<!--            <div class="titel">-->
+<!--                <p> Rock-paper-scissors (UX)</p>-->
+<!--            </div>-->
+<!---->
+<!--            <div class="artikel">-->
+<!--                <p> </p>-->
+<!--            </div>-->
+<!---->
+<!--            <a href="../projects/interactive%20media%20projects/websiteNORE.php" class="btn"> <i-->
+<!--                        class="bi bi-play"></i> Documentatie incompleet </a>-->
+<!--        </div>-->
+<!--    </div>-->
     <footer>
         <div class="copyrightnote">
             <p>Copyright ©2021 By Mette Ghijsen, All Rights Reserved</p>

@@ -32,7 +32,7 @@
         </div>
         <div class="text">
             <div class="titel">
-                <p> Branding </p>
+                <p> Coffeelab </p>
             </div>
 
             <div class="artikel">
@@ -44,40 +44,39 @@
         </div>
     </div>
 
+<!--    <div class="project-group">-->
+<!--        <div class="afbeelding">-->
+<!--            <img src="../img/placeholder.jpg"-->
+<!--                 alt="projectafbeelding">-->
+<!--        </div>-->
+<!--        <div class="text">-->
+<!--            <div class="titel">-->
+<!--                <p> Storytelling & Gamification </p>-->
+<!--            </div>-->
+<!---->
+<!--            <div class="artikel">-->
+<!--                <p>  </p>-->
+<!--            </div>-->
+<!---->
+<!--            <a href="../projects/interactive%20media%20projects/portfolioproject.php" class="btn"> <i-->
+<!--                        class="bi bi-play"></i> Documentatie incompleet </a>-->
+<!--        </div>-->
+<!--    </div>-->
+
     <div class="project-group">
         <div class="afbeelding">
-            <img src="../img/placeholder.jpg"
-                 alt="projectafbeelding">
+            <img src="../gif/animatienaam.gif">
         </div>
         <div class="text">
             <div class="titel">
-                <p> Storytelling & Gamification </p>
+                <p> Advanced Development</p>
             </div>
 
             <div class="artikel">
-                <p>  </p>
+                <p>Advanced Development is een van de specialisaties die ik heb gekozen voor de leeruitkomst Professional Identity. Bij deze specialisatie was het de bedoeling dat ik onderzoek doe naar 10 libraries, en vervolgens van 3 libraries een demo maak.</p>
             </div>
 
-            <a href="../projects/interactive%20media%20projects/portfolioproject.php" class="btn"> <i
-                        class="bi bi-play"></i> Documentatie incompleet </a>
-        </div>
-    </div>
-
-    <div class="project-group">
-        <div class="afbeelding">
-            <img src="../img/placeholder.jpg"
-                 alt="projectafbeelding">
-        </div>
-        <div class="text">
-            <div class="titel">
-                <p> Advanced Development </p>
-            </div>
-
-            <div class="artikel">
-                <p>  </p>
-            </div>
-
-            <a href="../projects/interactive%20media%20projects/portfolioproject.php" class="btn"> <i
+            <a href="../projects/development%20projects/advanceddevelopment.php" class="btn"> <i
                         class="bi bi-play"></i> Documentatie incompleet </a>
         </div>
     </div>

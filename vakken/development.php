@@ -25,25 +25,25 @@
         <p>Development</p>
     </div>
 
-    <div class="project-group">
-        <div class="afbeelding">
-            <img src="../gif/portfoliowebsite.gif"
-                 alt="portfolioafbeelding">
-        </div>
-        <div class="text">
-            <div class="titel">
-                <p> Portfolio Website Development</p>
-            </div>
-
-            <div class="artikel">
-                <p> Dit is een portfolio-website die ik gemaakt heb gedurende dit semester. Ik wilde graag kijken of ik
-                    vanuit scratch een mooie, functionele website kon maken.</p>
-            </div>
-
-            <a href="../projects/interactive%20media%20projects/portfolioproject.php" class="btn incomplete"> <i
-                        class="bi bi-play"></i> Documentatie incompleet </a>
-        </div>
-    </div>
+<!--    <div class="project-group">-->
+<!--        <div class="afbeelding">-->
+<!--            <img src="../gif/portfoliowebsite.gif"-->
+<!--                 alt="portfolioafbeelding">-->
+<!--        </div>-->
+<!--        <div class="text">-->
+<!--            <div class="titel">-->
+<!--                <p> Portfolio Website Development</p>-->
+<!--            </div>-->
+<!---->
+<!--            <div class="artikel">-->
+<!--                <p> Dit is een portfolio-website die ik gemaakt heb gedurende dit semester. Ik wilde graag kijken of ik-->
+<!--                    vanuit scratch een mooie, functionele website kon maken.</p>-->
+<!--            </div>-->
+<!---->
+<!--            <a href="../projects/interactive%20media%20projects/portfolioproject.php" class="btn incomplete"> <i-->
+<!--                        class="bi bi-play"></i> Documentatie incompleet </a>-->
+<!--        </div>-->
+<!--    </div>-->
 
     <div class="project-group">
         <div class="afbeelding">
@@ -140,7 +140,7 @@
 
     <div class="project-group">
         <div class="afbeelding">
-            <img src="../img/placeholder.jpg">
+            <img src="../gif/animatienaam.gif">
         </div>
         <div class="text">
             <div class="titel">
@@ -148,10 +148,10 @@
             </div>
 
             <div class="artikel">
-                <p> </p>
+                <p>Advanced Development is een van de specialisaties die ik heb gekozen voor de leeruitkomst Professional Identity. Bij deze specialisatie was het de bedoeling dat ik onderzoek doe naar 10 libraries, en vervolgens van 3 libraries een demo maak.</p>
             </div>
 
-            <a href="../projects/development%20projects/simonsaysproject.php" class="btn"> <i
+            <a href="../projects/development%20projects/advanceddevelopment.php" class="btn"> <i
                         class="bi bi-play"></i> Documentatie incompleet </a>
         </div>
     </div>

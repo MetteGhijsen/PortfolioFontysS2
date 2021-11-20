@@ -165,24 +165,24 @@
         </div>
     </div>
 
-    <div class="project-group">
-        <div class="afbeelding">
-            <img src="../img/placeholder.jpg"
-                 alt="projectafbeelding">
-        </div>
-        <div class="text">
-            <div class="titel">
-                <p> Logo Design</p>
-            </div>
-
-            <div class="artikel">
-                <p> </p>
-            </div>
-
-            <a href="../projects/design%20projects/poster%20ehbs.php" class="btn"> <i
-                        class="bi bi-play"></i> Documentatie incompleet </a>
-        </div>
-    </div>
+<!--    <div class="project-group">-->
+<!--        <div class="afbeelding">-->
+<!--            <img src="../img/placeholder.jpg"-->
+<!--                 alt="projectafbeelding">-->
+<!--        </div>-->
+<!--        <div class="text">-->
+<!--            <div class="titel">-->
+<!--                <p> Logo Design</p>-->
+<!--            </div>-->
+<!---->
+<!--            <div class="artikel">-->
+<!--                <p> </p>-->
+<!--            </div>-->
+<!---->
+<!--            <a href="../projects/design%20projects/poster%20ehbs.php" class="btn"> <i-->
+<!--                        class="bi bi-play"></i> Documentatie incompleet </a>-->
+<!--        </div>-->
+<!--    </div>-->
 
 <footer>
     <div class="copyrightnote">

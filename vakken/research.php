@@ -53,6 +53,25 @@
         </div>
         <div class="text">
             <div class="titel">
+                <p> Brandbook</p>
+            </div>
+
+            <div class="artikel">
+                <p> - </p>
+            </div>
+
+            <a href="../projects/research%20projects/mediaverkenning.php" class="btn"> <i
+                        class="bi bi-play"></i> Documentatie incompleet </a>
+        </div>
+    </div>
+
+    <div class="project-group">
+        <div class="afbeelding">
+            <img src="../img/placeholder.jpg"
+                 alt="projectafbeelding">
+        </div>
+        <div class="text">
+            <div class="titel">
                 <p> APA-opdracht</p>
             </div>
 
@@ -72,7 +91,7 @@
         </div>
         <div class="text">
             <div class="titel">
-                <p> Brand Research</p>
+                <p> Coffeelab</p>
             </div>
 
             <div class="artikel">

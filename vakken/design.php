@@ -51,25 +51,6 @@
 
     <div class="project-group">
         <div class="afbeelding">
-            <img src="../gif/portfoliowebsite.gif"
-                 alt="portfolioafbeelding">
-        </div>
-        <div class="text">
-            <div class="titel">
-                <p> Portfolio Website Design</p>
-            </div>
-
-            <div class="artikel">
-                <p> Dit is een portfolio-website die ik gemaakt heb gedurende dit semester. Hier laat ik mijn ontwerpproces zien.</p>
-            </div>
-
-            <a href="../projects/interactive%20media%20projects/portfolioproject.php" class="btn"> <i
-                        class="bi bi-play"></i> Documentatie incompleet</a>
-        </div>
-    </div>
-
-    <div class="project-group">
-        <div class="afbeelding">
             <img src="../img/design/brandbookafbeelding.png"
                  alt="projectafbeelding">
         </div>
@@ -122,6 +103,63 @@
                 <p> Deze poster heb ik moeten maken ter promotie van een Salve Mundi activiteit. De enige vereiste was dat de datum op de poster te vinden moest zijn.</p>
             </div>
 
+            <a href="../projects/design%20projects/poster%20efteling.php" class="btn"> <i
+                        class="bi bi-play"></i> Bekijk Project </a>
+        </div>
+    </div>
+
+    <div class="project-group">
+        <div class="afbeelding">
+            <img src="../img/research/coffeelab.png"
+                 alt="projectafbeelding">
+        </div>
+        <div class="text">
+            <div class="titel">
+                <p> Coffeelab </p>
+            </div>
+
+            <div class="artikel">
+                <p>Voor de specialisatie Branding heb ik research gedaan naar het bedrijf Coffeelab. Dit onderzoek heb ik gedocumenteerd in een soort boekje. Hier licht ik toe hoe ik dit design heb gemaakt.</p>
+            </div>
+
+            <a href="../documentatieincompleet.php" class="btn"> <i
+                        class="bi bi-play"></i> Documentatie incompleet </a>
+        </div>
+    </div>
+
+    <div class="project-group">
+        <div class="afbeelding">
+            <img src="../gif/portfoliowebsite.gif"
+                 alt="portfolioafbeelding">
+        </div>
+        <div class="text">
+            <div class="titel">
+                <p> Portfolio Website Design</p>
+            </div>
+
+            <div class="artikel">
+                <p> Dit is een portfolio-website die ik gemaakt heb gedurende dit semester. Hier laat ik mijn ontwerpproces zien.</p>
+            </div>
+
+            <a href="../documentatieincompleet.php" class="btn"> <i
+                        class="bi bi-play"></i> Documentatie incompleet</a>
+        </div>
+    </div>
+
+    <div class="project-group">
+        <div class="afbeelding">
+            <img src="../img/design/noredesignprojectimage.png"
+                 alt="projectafbeelding">
+        </div>
+        <div class="text">
+            <div class="titel">
+                <p> Website NORE Design</p>
+            </div>
+
+            <div class="artikel">
+                <p> Voor de tweede sprint van ons project hebben we een website ontworpen voor de band NORE. We hebben Adobe XD gebruikt om een zo mooi en interactief mogelijk prototype neer te zetten. </p>
+            </div>
+
             <a href="../projects/design%20projects/poster%20ehbs.php" class="btn"> <i
                         class="bi bi-play"></i> Documentatie incompleet </a>
         </div>
@@ -141,48 +179,12 @@
                 <p> Dit is een poster die ik heb meoten maken voor de Neon Party van Salve Mundi. De tijd, locatie en datum moesten op de poster te vinden zijn. </p>
             </div>
 
-            <a href="../projects/design%20projects/poster%20ehbs.php" class="btn"> <i
+            <a href="../documentatieincompleet.php" class="btn"> <i
                         class="bi bi-play"></i> Documentatie incompleet </a>
         </div>
     </div>
 
-    <div class="project-group">
-        <div class="afbeelding">
-            <img src="../img/placeholder.jpg"
-                 alt="projectafbeelding">
-        </div>
-        <div class="text">
-            <div class="titel">
-                <p> Branding </p>
-            </div>
 
-            <div class="artikel">
-                <p> </p>
-            </div>
-
-            <a href="../projects/design%20projects/poster%20ehbs.php" class="btn"> <i
-                        class="bi bi-play"></i> Documentatie incompleet </a>
-        </div>
-    </div>
-
-<!--    <div class="project-group">-->
-<!--        <div class="afbeelding">-->
-<!--            <img src="../img/placeholder.jpg"-->
-<!--                 alt="projectafbeelding">-->
-<!--        </div>-->
-<!--        <div class="text">-->
-<!--            <div class="titel">-->
-<!--                <p> Logo Design</p>-->
-<!--            </div>-->
-<!---->
-<!--            <div class="artikel">-->
-<!--                <p> </p>-->
-<!--            </div>-->
-<!---->
-<!--            <a href="../projects/design%20projects/poster%20ehbs.php" class="btn"> <i-->
-<!--                        class="bi bi-play"></i> Documentatie incompleet </a>-->
-<!--        </div>-->
-<!--    </div>-->
 
 <footer>
     <div class="copyrightnote">

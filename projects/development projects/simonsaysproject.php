@@ -85,18 +85,18 @@
         </div>
         <div class="text4">
             <h1>Wat heb ik geleerd?</h1>
-            Ik heb geleerd hoe ik loops in het algemeen moet gebruiken, maar ook in combinatie met TimeOuts. Blijkbaar
+            <p>Ik heb geleerd hoe ik <em>loops</em> in het algemeen moet gebruiken, maar ook in combinatie met <em>TimeOuts</em>. Blijkbaar
             is dit een probleem dat vaker voorkomt bij mensen, dus het is goed dat ik dit nu al weet, omdat ik er later
-            toch wel tegenaan zou zijn gelopen. Daarnaast heb ik ook geleerd hoe ik functies met parameters schrijf en
+            toch wel tegenaan zou zijn gelopen. Daarnaast heb ik ook geleerd hoe ik <em>functies met parameters</em> schrijf en
             gebruik in Javascript. Dit is een erg fijne en efficiente manier om code in te korten. Ook heb ik wat meer
-            inzicht opgedaan over het programmeren in Javascript. Ik merk dat ik door de fouten die ik heb gemaakt nu
+            <em>inzicht</em> opgedaan over het programmeren in Javascript. Ik merk dat ik door de fouten die ik heb gemaakt nu
             beter inzicht heb over hoe ik toekomstige code kan opstellen. Ik ben hier erg blij mee en ik denk dat dit
             erg waardevol kan zijn. Doordat ik heel lang heb zitten troubleshooten heb ik ook geleerd hoe je uitgebreide
-            info in je console kan loggen. Tot slot heb ik nog wat kennis opgedaan over if- en else-statements.</p>
+            info in je console kan loggen. Tot slot heb ik nog wat kennis opgedaan over <em>if- en else-statements.</em></p>
         </div>
         <div class="text5">
             <h1>Feedback</h1>
-            <p>De gekregen feedback moet nog worden genoteerd</p>
+            <p>Ik heb feedback gevraagd aan Frank Roosen. Frank zei dat hij het een mooi project vond, en de manier waarop ik het geprogrammeerd had, vond hij goed. Ik vertelde dat ik geprobeerd heb alles zo efficiënt mogelijk te programmeren, en dat ik er daardoor ook wat langer mee bezig ben geweest. Frank zei dat hij dit een mooie, waardevolle eigenschap vond, en dat dit hetgeen kan zijn wat projecten mogelijk van een voldoende naar een goed kan tillen. </p>
         </div>
         <div class="links">
             <div class="download">

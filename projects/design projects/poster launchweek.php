@@ -45,6 +45,15 @@
         <div class="afbeelding">
             <img id="afbeelding1" src="../../img/design/posterV11.png" alt="projectimage">
         </div>
+        <div class="afbeelding2">
+            <img id="afbeelding2" src="../../img/design/posterV7.png" alt="projectimage">
+        </div>
+        <div class="afbeelding3">
+            <img id="afbeelding3" src="../../img/design/posterV6.png" alt="projectimage">
+        </div>
+        <div class="afbeelding4">
+            <img id="afbeelding4" src="../../img/design/posterV16.png" alt="projectimage">
+        </div>
         <div class="text2">
             <h1>Ervaring</h1>
             <p> Toen ik eenmaal mijn poster bestand in Photoshop aanmaakte heb ik echt een tijdje naar de lege pagina
@@ -60,7 +69,10 @@
                 besloten er een subtiel streepje onder te zetten. Dit zag er mooi uit, en hier was ik tevreden mee. De
                 rest van de lijnen op de poster zijn allemaal met de hand getekend met mijn tekentablet, en de teksten
                 onderin de poster heb ik aan het einde nog toegevoegd zodat het echt op een filmposter leek. Ik besloot
-                ook nog bij de acteurs wat vrienden van mij neer te zetten, omdat ze hierom hadden gevraagd.
+                ook nog bij de acteurs wat vrienden van mij neer te zetten, omdat ze hierom hadden gevraagd.<br></br>
+
+                Ondanks dat ik erg tevreden was met de simplistische lijnkunst die ik had gemaakt, had ik wel enige twijfels. De poster zegt op het eerste oog niet echt iets over mij, en ik dacht dat ik misschien mijn gezicht op de poster moest zetten om hem wat herkenbaarder te maken. Na een aantal versies te hebben geprobeerd, kwam ik toch tot de conclusie dat ik de originele rood met blauwe poster toch mooier vond.
+
                 Ik ben erg tevreden met de poster, en ik denk toch dat mijn persoonlijkheid hier goed in naar voren
                 komt. Ik weet namelijk niet zo goed wat ik aan het doen ben, of wat ik nou eigenlijk wil doen. Maar
                 zolang ik dingen kan maken waar andere mensen blij van worden, ben ik ook blij, en dat is wat ik een

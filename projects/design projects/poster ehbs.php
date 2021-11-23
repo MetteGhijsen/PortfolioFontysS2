@@ -61,6 +61,8 @@
                 paars in de poster te verwerken door subtiele rechthoeken achter de tekst en achter de QR-code te
                 plaatsen en daardoor een soort “schaduw-effect” te creeëren. Ik merkte ook dat de tekst en de QR-code
                 hierdoor beter opvielen. Kortom, ik was zelf erg tevreden.
+                <br></br>
+                Omdat dit de eerste poster is die ik heb gemaakt in een stijl zoals deze, wist ik niet zo goed of ik nog een tweede versie moest maken. Ik had besloten dit niet te doen, omdat de opdrachtgever al aangegeven had tevreden te zijn met de eerste versie.
 
             </p>
         </div>

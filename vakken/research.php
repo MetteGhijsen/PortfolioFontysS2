@@ -48,7 +48,7 @@
 
     <div class="project-group">
         <div class="afbeelding">
-            <img src="../img/placeholder.jpg"
+            <img src="../img/design/brandbookafbeelding.png"
                  alt="projectafbeelding">
         </div>
         <div class="text">
@@ -57,7 +57,45 @@
             </div>
 
             <div class="artikel">
-                <p> - </p>
+                <p> Voor de eerste sprint van ons project moesten we een brandbook maken. Ik was verantwoordelijk voor het kleurgebruik en de typegrafie van de website. Hier heb ik onderzoek naar gedaan. </p>
+            </div>
+
+            <a href="../projects/research%20projects/mediaverkenning.php" class="btn"> <i
+                        class="bi bi-play"></i> Documentatie incompleet </a>
+        </div>
+    </div>
+
+    <div class="project-group">
+        <div class="afbeelding">
+            <img src="../img/research/coffeelab.png"
+                 alt="projectafbeelding">
+        </div>
+        <div class="text">
+            <div class="titel">
+                <p> Coffeelab</p>
+            </div>
+
+            <div class="artikel">
+                <p> Voor de specialisatie Branding heb ik research gedaan naar het bedrijf Coffeelab. Alle bronnen die ik heb gebruikt heb ik genoteerd volgens de APA richtlijnen.</p>
+            </div>
+
+            <a href="../projects/research%20projects/mediaverkenning.php" class="btn"> <i
+                        class="bi bi-play"></i> Documentatie incompleet </a>
+        </div>
+    </div>
+
+    <div class="project-group">
+        <div class="afbeelding">
+            <img src="../gif/animatienaam.gif"
+                 alt="projectafbeelding">
+        </div>
+        <div class="text">
+            <div class="titel">
+                <p> Javascript libraries research </p>
+            </div>
+
+            <div class="artikel">
+                <p> Voor de specialistatie Advanced Development moest ik research doen naar tien verschillende Javascript libraries. </p>
             </div>
 
             <a href="../projects/research%20projects/mediaverkenning.php" class="btn"> <i
@@ -77,44 +115,6 @@
 
             <div class="artikel">
                 <p> Dit is een opdracht die ik heb gemaakt om aan te tonen dat ik de APA-bronnotatie begrijp, en kan toepassen.</p>
-            </div>
-
-            <a href="../projects/research%20projects/mediaverkenning.php" class="btn"> <i
-                        class="bi bi-play"></i> Documentatie incompleet </a>
-        </div>
-    </div>
-
-    <div class="project-group">
-        <div class="afbeelding">
-            <img src="../img/placeholder.jpg"
-                 alt="projectafbeelding">
-        </div>
-        <div class="text">
-            <div class="titel">
-                <p> Coffeelab</p>
-            </div>
-
-            <div class="artikel">
-                <p> - </p>
-            </div>
-
-            <a href="../projects/research%20projects/mediaverkenning.php" class="btn"> <i
-                        class="bi bi-play"></i> Documentatie incompleet </a>
-        </div>
-    </div>
-
-    <div class="project-group">
-        <div class="afbeelding">
-            <img src="../img/placeholder.jpg"
-                 alt="projectafbeelding">
-        </div>
-        <div class="text">
-            <div class="titel">
-                <p> Javascript libraries research </p>
-            </div>
-
-            <div class="artikel">
-                <p> - </p>
             </div>
 
             <a href="../projects/research%20projects/mediaverkenning.php" class="btn"> <i

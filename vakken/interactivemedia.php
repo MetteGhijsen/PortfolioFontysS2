@@ -40,7 +40,7 @@
                     vanuit scratch een mooie, functionele website kon maken.</p>
             </div>
 
-            <a href="../projects/interactive%20media%20projects/portfolioproject.php" class="btn"> <i
+            <a href="../documentatieincompleet.php" class="btn"> <i
                         class="bi bi-play"></i> Documentatie incompleet </a>
         </div>
     </div>
@@ -59,7 +59,7 @@
                 was Tessa Meester, lid van de band NORE. We hebben haar geholpen met de website en de branding van de band.</p>
             </div>
 
-            <a href="../projects/interactive%20media%20projects/websiteNORE.php" class="btn"> <i
+            <a href="../documentatieincompleet.php" class="btn"> <i
                         class="bi bi-play"></i> Documentatie incompleet </a>
         </div>
     </div>

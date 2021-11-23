@@ -137,6 +137,9 @@ body {
     display: flex;
 }
 
+.grid-container .text4 p em{
+    background-color: #0900b6;
+}
 
 .afbeelding img {
     height: 250px;

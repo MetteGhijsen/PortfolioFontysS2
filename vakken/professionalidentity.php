@@ -27,7 +27,7 @@
 
     <div class="project-group">
         <div class="afbeelding">
-            <img src="../img/placeholder.jpg"
+            <img src="../img/research/coffeelab.png"
                  alt="projectafbeelding">
         </div>
         <div class="text">
@@ -36,10 +36,10 @@
             </div>
 
             <div class="artikel">
-                <p>  </p>
+                <p> Hier beschrijf ik waarom ik voor de specialisatie Branding heb gekozen en wat ik ervan geleerd heb. Bij deze specialisatie was het de bedoeling dat ik onderzoek deed naar een bedrijf. Het bedrijf dat ik gekozen heb is Coffeelab.</p>
             </div>
 
-            <a href="../projects/interactive%20media%20projects/portfolioproject.php" class="btn"> <i
+            <a href="../documentatieincompleet.php" class="btn"> <i
                         class="bi bi-play"></i> Documentatie incompleet </a>
         </div>
     </div>

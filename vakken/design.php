@@ -110,6 +110,25 @@
 
     <div class="project-group">
         <div class="afbeelding">
+            <img src="../img/design/neonparty.png"
+                 alt="projectafbeelding">
+        </div>
+        <div class="text">
+            <div class="titel">
+                <p> Poster Neon Party</p>
+            </div>
+
+            <div class="artikel">
+                <p> Dit is een poster die ik heb meoten maken voor de Neon Party van Salve Mundi. De tijd, locatie en datum moesten op de poster te vinden zijn. </p>
+            </div>
+
+            <a href="../projects/design%20projects/poster%20neonparty.php" class="btn"> <i
+                        class="bi bi-play"></i> Bekijk Project </a>
+        </div>
+    </div>
+
+    <div class="project-group">
+        <div class="afbeelding">
             <img src="../img/research/coffeelab.png"
                  alt="projectafbeelding">
         </div>
@@ -164,27 +183,6 @@
                         class="bi bi-play"></i> Documentatie incompleet </a>
         </div>
     </div>
-
-    <div class="project-group">
-        <div class="afbeelding">
-            <img src="../img/design/neonparty.png"
-                 alt="projectafbeelding">
-        </div>
-        <div class="text">
-            <div class="titel">
-                <p> Poster Neon Party</p>
-            </div>
-
-            <div class="artikel">
-                <p> Dit is een poster die ik heb meoten maken voor de Neon Party van Salve Mundi. De tijd, locatie en datum moesten op de poster te vinden zijn. </p>
-            </div>
-
-            <a href="../documentatieincompleet.php" class="btn"> <i
-                        class="bi bi-play"></i> Documentatie incompleet </a>
-        </div>
-    </div>
-
-
 
 <footer>
     <div class="copyrightnote">

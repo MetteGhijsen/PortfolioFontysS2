@@ -45,7 +45,7 @@
 <!--        </div>-->
 <!--    </div>-->
 
-        <div class="project-group" data-aos="fade-right">
+        <div class="project-group" data-aos="fade-right" data-aos-duration="1000">
             <div class="afbeelding">
                 <img src="../img/communication/groepsproject.png"
                      alt="projectafbeelding">
@@ -64,7 +64,7 @@
             </div>
     </div>
 
-        <div class="project-group" data-aos="fade-right">
+        <div class="project-group" data-aos="fade-right" data-aos-duration="1000">
             <div class="afbeelding">
                 <img src="../img/communication/externepartners.png"
                      alt="projectafbeelding">
@@ -83,7 +83,7 @@
             </div>
         </div>
 
-    <div class="project-group" data-aos="fade-right">
+    <div class="project-group" data-aos="fade-right" data-aos-duration="1000">
         <div class="afbeelding">
             <img src="../img/communication/projectafbeeldingfeedpulse.png"
                  alt="projectafbeelding">

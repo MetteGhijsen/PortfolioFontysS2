@@ -26,7 +26,7 @@
         <p>Professional Identity</p>
     </div>
 
-    <div class="project-group" data-aos="fade-right">
+    <div class="project-group" data-aos="fade-right" data-aos-duration="1000">
         <div class="afbeelding">
             <img src="../img/research/coffeelab.png"
                  alt="projectafbeelding">
@@ -64,7 +64,7 @@
 <!--        </div>-->
 <!--    </div>-->
 
-    <div class="project-group" data-aos="fade-right">
+    <div class="project-group" data-aos="fade-right" data-aos-duration="1000">
         <div class="afbeelding">
             <img src="../gif/animatienaam.gif">
         </div>

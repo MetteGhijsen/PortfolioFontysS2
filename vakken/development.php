@@ -66,7 +66,7 @@
         </div>
     </div>
 
-        <div class="project-group" data-aos="fade-right">
+        <div class="project-group" data-aos="fade-right" data-aos-duration="1000">
             <div class="afbeelding">
                 <img src="../gif/veranderachtergrond.gif">
             </div>
@@ -85,7 +85,7 @@
             </div>
         </div>
 
-    <div class="project-group" data-aos="fade-right">
+    <div class="project-group" data-aos="fade-right" data-aos-duration="1000">
         <div class="afbeelding">
             <img src="../gif/todolistgif.gif">
         </div>
@@ -103,7 +103,7 @@
         </div>
     </div>
 
-    <div class="project-group" data-aos="fade-right">
+    <div class="project-group" data-aos="fade-right" data-aos-duration="1000">
         <div class="afbeelding">
             <img src="../gif/rockpaperscissors.gif">
         </div>
@@ -121,7 +121,7 @@
         </div>
     </div>
 
-        <div class="project-group" data-aos="fade-right">
+        <div class="project-group" data-aos="fade-right" data-aos-duration="1000">
             <div class="afbeelding">
                 <img src="../gif/simonsays.gif">
             </div>
@@ -139,7 +139,7 @@
             </div>
         </div>
 
-    <div class="project-group" data-aos="fade-right">
+    <div class="project-group" data-aos="fade-right" data-aos-duration="1000">
         <div class="afbeelding">
             <img src="../gif/animatienaam.gif">
         </div>

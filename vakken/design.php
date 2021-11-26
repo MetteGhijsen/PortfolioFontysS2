@@ -26,7 +26,7 @@
         <p>Design</p>
     </div>
 
-    <div class="project-group" data-aos="fade-right">
+    <div class="project-group" data-aos="fade-right" data-aos-duration="1000">
         <div class="afbeelding">
             <img src="../img/design/metteposter.PNG"
                  alt="projectafbeelding">
@@ -50,7 +50,7 @@
         </div>
     </div>
 
-    <div class="project-group" data-aos="fade-right">
+    <div class="project-group" data-aos="fade-right" data-aos-duration="1000">
         <div class="afbeelding">
             <img src="../img/design/brandbookafbeelding.png"
                  alt="projectafbeelding">
@@ -69,7 +69,7 @@
         </div>
     </div>
 
-    <div class="project-group" data-aos="fade-right">
+    <div class="project-group" data-aos="fade-right" data-aos-duration="1000">
         <div class="afbeelding">
             <img src="../img/design/ehbs.PNG"
                  alt="projectafbeelding">
@@ -90,7 +90,7 @@
         </div>
     </div>
 
-    <div class="project-group" data-aos="fade-right">
+    <div class="project-group" data-aos="fade-right" data-aos-duration="1000">
         <div class="afbeelding">
             <img src="../img/design/eftelingposterproject.png"
                  alt="projectafbeelding">
@@ -109,7 +109,7 @@
         </div>
     </div>
 
-    <div class="project-group" data-aos="fade-right">
+    <div class="project-group" data-aos="fade-right" data-aos-duration="1000">
         <div class="afbeelding">
             <img src="../img/design/neonparty.png"
                  alt="projectafbeelding">
@@ -128,7 +128,7 @@
         </div>
     </div>
 
-    <div class="project-group" data-aos="fade-right">
+    <div class="project-group" data-aos="fade-right" data-aos-duration="1000">
         <div class="afbeelding">
             <img src="../img/research/coffeelab.png"
                  alt="projectafbeelding">
@@ -147,7 +147,7 @@
         </div>
     </div>
 
-    <div class="project-group" data-aos="fade-right">
+    <div class="project-group" data-aos="fade-right" data-aos-duration="1000">
         <div class="afbeelding">
             <img src="../gif/portfoliowebsite.gif"
                  alt="portfolioafbeelding">
@@ -166,7 +166,7 @@
         </div>
     </div>
 
-    <div class="project-group" data-aos="fade-right">
+    <div class="project-group" data-aos="fade-right" data-aos-duration="1000">
         <div class="afbeelding">
             <img src="../img/design/noredesignprojectimage.png"
                  alt="projectafbeelding">

@@ -90,14 +90,14 @@ body {
     text-shadow: 5px 5px #0900b6;
 }
 
-@keyframes block {
-    0% {
-        margin-top: -50px;
-    }
-    100% {
-        margin-top: 0;
-    }
-}
+/*@keyframes block {*/
+/*    0% {*/
+/*        margin-top: -50px;*/
+/*    }*/
+/*    100% {*/
+/*        margin-top: 0;*/
+/*    }*/
+/*}*/
 
 
 .grid-container{
@@ -106,8 +106,8 @@ body {
     padding: 0px 100px 0px 100px;
     font-size: 30px;
     list-style: none;
-    animation-name: block;
-    animation-duration: 1.5s;
+    /*animation-name: block;*/
+    /*animation-duration: 1.5s;*/
 }
 
 .grid-container a{
@@ -123,11 +123,11 @@ body {
     line-height: 4;
     margin: 0;
     padding: 0;
-    transition: all .5s;
+    transition: all .2s;
 }
 
 .grid-container a:hover {
-    transform: translateY(-5px);
+    transform: translateY(-5px) !important;
     box-shadow: 0 3px 20px rgba(255,255,255,0.5);
 }
 

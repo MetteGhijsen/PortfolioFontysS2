@@ -84,14 +84,14 @@ body {
     text-shadow: 5px 5px #0900b6;
 }
 
-@keyframes block {
-    0% {
-        margin-top: -50px;
-    }
-    100% {
-        margin-top: 0;
-    }
-}
+/*@keyframes block {*/
+/*    0% {*/
+/*        margin-top: -50px;*/
+/*    }*/
+/*    100% {*/
+/*        margin-top: 0;*/
+/*    }*/
+/*}*/
 
 .grid-container {
     display: grid;
@@ -101,8 +101,8 @@ body {
     grid-auto-flow: row;
     grid-template-areas:
     "tekst foto .";
-    animation-name: block;
-    animation-duration: 1.5s;
+    /*animation-name: block;*/
+    /*animation-duration: 1.5s;*/
 }
 
 .foto { grid-area: foto; }

@@ -92,18 +92,18 @@ body {
     grid-template-areas: "afbeelding" "text";
     grid-template-columns: 1fr 1fr;
     margin: 75px;
-    animation-name: slidein;
-    animation-duration: 1s;
+    /*animation-name: slidein;*/
+    /*animation-duration: 1s;*/
 }
 
-@keyframes slidein {
-    0% {
-        margin-top: 0px;
-    }
-    100% {
-        margin-top: 75px;
-    }
-}
+/*@keyframes slidein {*/
+/*    0% {*/
+/*        margin-top: 0px;*/
+/*    }*/
+/*    100% {*/
+/*        margin-top: 75px;*/
+/*    }*/
+/*}*/
 
 .afbeelding img{
     height: 297px;

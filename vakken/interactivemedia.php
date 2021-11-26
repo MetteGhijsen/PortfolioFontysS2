@@ -7,6 +7,7 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <link rel="stylesheet" href="../css/vakken.css">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css">
+    <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css">
     <link rel="icon" href="../img/logotjewit.png">
     <title>Portfolio Mette Ghijsen</title>
 </head>
@@ -25,7 +26,7 @@
         <p>Interactive Media</p>
     </div>
 
-    <div class="project-group">
+    <div class="project-group" data-aos="fade-right">
         <div class="afbeelding">
             <img src="../gif/portfoliowebsite.gif"
                  alt="portfolioafbeelding">
@@ -44,7 +45,7 @@
                         class="bi bi-play"></i> Bekijk Project </a>
         </div>
     </div>
-    <div class="project-group">
+    <div class="project-group" data-aos="fade-right">
         <div class="afbeelding">
             <img src="../img/placeholder.jpg"
                  alt="afbeeldinwebsitenore">
@@ -88,7 +89,9 @@
         </div>
     </footer>
 </div>
-
+<script src="https://unpkg.com/aos@next/dist/aos.js"></script>
+<script>
+    AOS.init();
+</script>
 </body>
-
 </html>

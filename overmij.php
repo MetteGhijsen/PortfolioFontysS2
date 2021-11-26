@@ -7,6 +7,7 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <link rel="stylesheet" href="css/overmij.css">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css">
+    <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css">
     <link rel="icon" href="img/logotjewit.png">
     <title>Portfolio Mette Ghijsen</title>
 </head>
@@ -25,8 +26,8 @@
         <a href="overmij.php" class="Over mij"></a>
     </div>
 </div>
-</body>
-<div class="grid-container">
+
+<div class="grid-container" data-aos="fade-up" data-aos-duration="1000">
     <div class="tekst">
         <h1>Wie ben ik?</h1>
         <p>Mijn naam is Mette, ik ben 18 jaar oud en ik kom uit Weert. Ik heb altijd al interesse gehad in computers en dergelijke. In de bovenbouw van de havo volgde ik het vak informatica. We leerden daar vanalles over computers, netwerken, programmeertalen én hadden opdrachten waarbij we websites of games moesten maken. Van alle vakken die ik volgde in de bovenbouw was informatica mijn favoriet. Als profielwerkstuk in havo 5 heb ik een drone gebouwd. Ik heb hier zoveel plezier aan beleefd dat ik besloot na mijn havodiploma te hebben gehaald in 2020, elektrotechniek te gaan studeren bij Avans Hogeschool in Den Bosch. Echter bleek dit niet de juiste opleiding voor mij te zijn.
@@ -47,4 +48,10 @@
         <p>Copyright ©2021 By Mette Ghijsen, All Rights Reserved</p>
     </div>
 </footer>
+
+<script src="https://unpkg.com/aos@next/dist/aos.js"></script>
+<script>
+    AOS.init();
+</script>
+</body>
 </html>

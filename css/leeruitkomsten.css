@@ -128,7 +128,7 @@ body {
 
 .grid-container a:hover {
     transform: translateY(-5px) !important;
-    box-shadow: 0 3px 20px rgba(255,255,255,0.5);
+    box-shadow: 0 3px 20px rgba(255,255,255,0.5) !important;
 }
 
 .grid-container p{

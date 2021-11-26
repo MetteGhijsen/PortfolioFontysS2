@@ -20,8 +20,7 @@
         <li class="pijltje"> < </li>
         <li><a href="../../vakken/design.php"> Design </a></li>
         <li class="pijltje"> < </li>
-        <li><a href="../../projects/design%20projects/poster%20launchweek.php" class="currentpage">Poster
-                Launchweek</a></li>
+        <li><a href="../../projects/design%20projects/poster%20launchweek.php" class="currentpage">Double Life Challenge</a></li>
     </div>
 
     <div class="hoofdtekst">

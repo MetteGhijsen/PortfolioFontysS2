@@ -33,7 +33,7 @@
         </div>
         <div class="text">
             <div class="titel">
-                <p> Poster Launchweek</p>
+                <p> Double Life Challenge</p>
             </div>
 
             <div class="artikel">
@@ -195,21 +195,6 @@
     <script>
         AOS.init();
     </script>
-<script>
-    const toTopEle = document.getElementById("gotopbutton");
-
-    window.addEventListener("scroll", () => {
-        if (window.pageYOffset > 400) {
-            toTopEle.style.transform = "scale(1)";
-            toTopEle.style.opacity = "1";
-            toTopEle.style.pointerEvents = "all";
-        }
-        else if (window.pageYOffset < 400) {
-            toTopEle.style.transform = "scale(0)";
-            toTopEle.style.opacity = "0";
-            toTopEle.style.pointerEvents = "none";
-        }
-    })
-</script>
+<script src="../script/scrolltotop.js"></script>
 </body>
 </html>

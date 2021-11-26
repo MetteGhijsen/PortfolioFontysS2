@@ -101,6 +101,7 @@
                         class="bi bi-play"></i> Documentatie incompleet </a>
         </div>
     </div>
+<a class="gotopbutton" id="gotopbutton" href="#"><i class="bi bi-arrow-up"></i></a>
     <footer>
         <div class="copyrightnote">
             <p>Copyright ©2021 By Mette Ghijsen, All Rights Reserved</p>
@@ -110,6 +111,22 @@
 <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
 <script>
     AOS.init();
+</script>
+<script>
+    const toTopEle = document.getElementById("gotopbutton");
+
+    window.addEventListener("scroll", () => {
+        if (window.pageYOffset > 400) {
+            toTopEle.style.transform = "scale(1)";
+            toTopEle.style.opacity = "1";
+            toTopEle.style.pointerEvents = "all";
+        }
+        else if (window.pageYOffset < 400) {
+            toTopEle.style.transform = "scale(0)";
+            toTopEle.style.opacity = "0";
+            toTopEle.style.pointerEvents = "none";
+        }
+    })
 </script>
 </body>
 </html>

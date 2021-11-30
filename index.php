@@ -12,7 +12,7 @@
 </head>
 <body>
 <div class="container">
-    <div class="naam" data-aos="fade-up" data-aos-duration="2000">
+    <div class="naam" data-aos="fade-up" data-aos-duration="1000">
         <p>Mette Ghijsen</p>
     </div>
     <div class="leeruitkomsten" data-aos="fade-right"  data-aos-duration="1000">

@@ -80,8 +80,8 @@
                 <p> Voor de specialisatie Branding heb ik research gedaan naar het bedrijf Coffeelab. Alle bronnen die ik heb gebruikt heb ik genoteerd volgens de APA richtlijnen.</p>
             </div>
 
-            <a href="../projects/research%20projects/mediaverkenning.php" class="btn"> <i
-                        class="bi bi-play"></i> Documentatie incompleet </a>
+            <a href="../projects/research%20projects/brandingresearch.php" class="btn"> <i
+                        class="bi bi-play"></i> Bekijk Project </a>
         </div>
     </div>
 

@@ -85,14 +85,14 @@
         </div>
         <div class="text4">
             <h1>Wat heb ik geleerd?</h1>
-            <p>Ik heb geleerd hoe ik <em>loops</em> in het algemeen moet gebruiken, maar ook in combinatie met <em>TimeOuts</em>. Blijkbaar
+            <p>Ik heb geleerd hoe ik loops in het algemeen moet gebruiken, maar ook in combinatie met TimeOuts. Blijkbaar
             is dit een probleem dat vaker voorkomt bij mensen, dus het is goed dat ik dit nu al weet, omdat ik er later
-            toch wel tegenaan zou zijn gelopen. Daarnaast heb ik ook geleerd hoe ik <em>functies met parameters</em> schrijf en
+            toch wel tegenaan zou zijn gelopen. Daarnaast heb ik ook geleerd hoe ik functies met parameters schrijf en
             gebruik in Javascript. Dit is een erg fijne en efficiente manier om code in te korten. Ook heb ik wat meer
-            <em>inzicht</em> opgedaan over het programmeren in Javascript. Ik merk dat ik door de fouten die ik heb gemaakt nu
+            inzicht opgedaan over het programmeren in Javascript. Ik merk dat ik door de fouten die ik heb gemaakt nu
             beter inzicht heb over hoe ik toekomstige code kan opstellen. Ik ben hier erg blij mee en ik denk dat dit
             erg waardevol kan zijn. Doordat ik heel lang heb zitten troubleshooten heb ik ook geleerd hoe je uitgebreide
-            info in je console kan loggen. Tot slot heb ik nog wat kennis opgedaan over <em>if- en else-statements.</em></p>
+            info in je console kan loggen. Tot slot heb ik nog wat kennis opgedaan over if- en else-statements.</p>
         </div>
         <div class="text5">
             <h1>Feedback</h1>
@@ -101,13 +101,13 @@
         <div class="links">
             <div class="download">
                 <h2>Klik hier om het project te downloaden</h2>
-                <a href="todolist.zip" download="todolist.zip">
+                <a href="SimonSays.zip" download="SimonSays.zip">
                     <p><i class="bi bi-download"></i></p>
                 </a>
             </div>
             <div class="testen">
                 <h2>Klik hier om het project te testen</h2>
-                <a href="webpagina's/todolist/index.php" target="_blank">
+                <a href="webpagina's/SimonSays/index.php" target="_blank">
                     <p><i class="bi bi-play"></i></p>
                 </a>
             </div>

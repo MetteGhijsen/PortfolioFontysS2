@@ -81,6 +81,24 @@
                         class="bi bi-play"></i> Documentatie incompleet </a>
         </div>
     </div>
+
+    <div class="project-group" data-aos="fade-right" data-aos-duration="1000">
+        <div class="afbeelding">
+            <img src="../img/professional%20identity/zelfreflectie.png">
+        </div>
+        <div class="text">
+            <div class="titel">
+                <p> Zelfreflectie</p>
+            </div>
+
+            <div class="artikel">
+                <p>In dit deel bespreek ik hoe ik dit semester ben gegroeid als Media Designer en waar ik me graag meer op zou willen focussen.</p>
+            </div>
+
+            <a href="../projects/development%20projects/advanceddevelopment.php" class="btn"> <i
+                        class="bi bi-play"></i> Documentatie incompleet </a>
+        </div>
+    </div>
     <footer>
         <div class="copyrightnote">
             <p>Copyright ©2021 By Mette Ghijsen, All Rights Reserved</p>

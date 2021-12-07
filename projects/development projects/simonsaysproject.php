@@ -96,7 +96,7 @@
         </div>
         <div class="text5">
             <h1>Feedback</h1>
-            <p>Ik heb feedback gevraagd aan Frank Roosen. Frank zei dat hij het een mooi project vond, en de manier waarop ik het geprogrammeerd had, vond hij goed. Ik vertelde dat ik geprobeerd heb alles zo efficiënt mogelijk te programmeren, en dat ik er daardoor ook wat langer mee bezig ben geweest. Frank zei dat hij dit een mooie, waardevolle eigenschap vond, en dat dit hetgeen kan zijn wat projecten mogelijk van een voldoende naar een goed kan tillen. </p>
+            <p>Ik heb feedback gevraagd aan Frank Roosen. Frank zei dat hij het een mooi project vond, en de manier waarop ik het geprogrammeerd had, vond hij goed. Ik vertelde dat ik geprobeerd heb alles zo efficiënt mogelijk te programmeren, en dat ik er daardoor ook wat langer mee bezig ben geweest. Frank zei dat hij dit een mooie, waardevolle eigenschap vond, en dat dit hetgeen kan zijn wat projecten mogelijk van een voldoende naar een goed kan tillen. <br><br> Jo-An Kamp zei nog dat ik misschien een uitleg moest bijvoegen aan het begin van mijn spel, aangezien zij niet helemaal begreep hoe het spel werkte in de eerste instantie. </p>
         </div>
         <div class="links">
             <div class="download">

@@ -43,7 +43,7 @@
         <div class="text2">
             <h1>Inleiding</h1>
             <p>
-                Voor de specialisatie Branding moisten we onderzoek doen naar een bedrijf. Voor dit onderzoek heb ik gebruik gemaakt van “The Brand Canvas”. Daarnaast heb ik voor het noteren van mijn bronnen gebruik gemaakt van de APA-stijl (American Psychological Assocation).
+                Voor de specialisatie Branding moest ik onderzoek doen naar een bedrijf. Voor dit onderzoek heb ik gebruik gemaakt van “The Brand Canvas”. Daarnaast heb ik voor het noteren van mijn bronnen gebruik gemaakt van de APA-stijl (American Psychological Assocation).
             </p>
             <h1>Ervaring</h1>
             <p>

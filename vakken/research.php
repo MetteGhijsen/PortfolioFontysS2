@@ -77,7 +77,7 @@
             </div>
 
             <div class="artikel">
-                <p> Voor de specialisatie Branding heb ik research gedaan naar het bedrijf Coffeelab. Alle bronnen die ik heb gebruikt heb ik genoteerd volgens de APA richtlijnen.</p>
+                <p> Voor de specialisatie Branding heb ik research gedaan naar het bedrijf Coffeelab. Alle bronnen die ik heb gebruikt heb ik genoteerd volgens de APA richtlijnen. Dit is volledig library research.</p>
             </div>
 
             <a href="../projects/research%20projects/brandingresearch.php" class="btn"> <i
@@ -96,7 +96,7 @@
             </div>
 
             <div class="artikel">
-                <p> Voor de specialistatie Advanced Development moest ik research doen naar tien verschillende Javascript libraries. </p>
+                <p> Voor de specialistatie Advanced Development moest ik research doen naar tien verschillende Javascript libraries. Dit is vooral library en workshop research. </p>
             </div>
 
             <a href="../projects/research%20projects/mediaverkenning.php" class="btn"> <i
@@ -104,24 +104,6 @@
         </div>
     </div>
 
-    <div class="project-group" data-aos="fade-right" data-aos-duration="1000">
-        <div class="afbeelding">
-            <img src="../img/placeholder.jpg"
-                 alt="projectafbeelding">
-        </div>
-        <div class="text">
-            <div class="titel">
-                <p> APA-opdracht</p>
-            </div>
-
-            <div class="artikel">
-                <p> Dit is een opdracht die ik heb gemaakt om aan te tonen dat ik de APA-bronnotatie begrijp, en kan toepassen.</p>
-            </div>
-
-            <a href="../projects/research%20projects/mediaverkenning.php" class="btn"> <i
-                        class="bi bi-play"></i> Documentatie incompleet </a>
-        </div>
-    </div>
 <a class="gotopbutton" id="gotopbutton" href="#"><i class="bi bi-arrow-up"></i></a>
     <footer>
         <div class="copyrightnote">

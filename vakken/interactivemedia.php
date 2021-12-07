@@ -47,8 +47,8 @@
     </div>
     <div class="project-group" data-aos="fade-right" data-aos-duration="1000">
         <div class="afbeelding">
-            <img src="../img/placeholder.jpg"
-                 alt="afbeeldinwebsitenore">
+            <img src="../gif/websitenore.gif"
+                 alt="afbeeldingwebsitenore">
         </div>
         <div class="text">
             <div class="titel">

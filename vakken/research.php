@@ -28,7 +28,7 @@
 
     <div class="project-group" data-aos="fade-right" data-aos-duration="1000">
         <div class="afbeelding">
-            <img src="../gif/mediaverkenning2.gif"
+            <img src="../img/research/mediaverkenningafb.png"
                  alt="projectafbeelding">
         </div>
         <div class="text">
@@ -38,8 +38,7 @@
 
             <div class="artikel">
                 <p> Om onze opdrachtgever te laten zien wat we voor haar wilden maken, hebben we een soort presentatie opgesteld.
-                Dit is een "boekje" waarin verwerkt staat wie wij zijn, watvoor onderzoek we hebben gedaan, en hoe we dat onderzoek
-                gebruiken om iets moois voor haar te maken.</p>
+                Dit is een "boekje" waarin verwerkt staat wie wij zijn en watvoor onderzoek we hebben gedaan. Bij dit onderzoek hebben we gebruik gemaakt van een aantal CMD-methoden.</p>
             </div>
 
             <a href="../projects/research%20projects/mediaverkenning.php" class="btn"> <i
@@ -61,8 +60,8 @@
                 <p> Voor de eerste sprint van ons project moesten we een brandbook maken. Ik was verantwoordelijk voor het kleurgebruik en de typegrafie van de website. Hier heb ik onderzoek naar gedaan. </p>
             </div>
 
-            <a href="../projects/research%20projects/mediaverkenning.php" class="btn"> <i
-                        class="bi bi-play"></i> Documentatie incompleet </a>
+            <a href="../projects/research%20projects/brandbookresearch.php" class="btn"> <i
+                        class="bi bi-play"></i> Bekijk Project </a>
         </div>
     </div>
 

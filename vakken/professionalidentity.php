@@ -92,11 +92,11 @@
             </div>
 
             <div class="artikel">
-                <p>In dit deel bespreek ik hoe ik dit semester ben gegroeid als Media Designer en waar ik me graag meer op zou willen focussen.</p>
+                <p>In dit deel bespreek ik hoe ik dit semester ben gegroeid als Media Designer en waar ik me graag meer op zou willen focussen in de toekomst.</p>
             </div>
 
-            <a href="../projects/development%20projects/advanceddevelopment.php" class="btn"> <i
-                        class="bi bi-play"></i> Documentatie incompleet </a>
+            <a href="../projects/professional%20identity/zelfreflectie.php" class="btn"> <i
+                        class="bi bi-play"></i> Bekijk Project </a>
         </div>
     </div>
     <footer>

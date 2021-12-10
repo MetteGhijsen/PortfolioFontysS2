@@ -65,6 +65,15 @@
                 <br>
                 Deze student vind het een mooie website. Alle projecten zijn makkelijk te vinden en te bekijken. De student was erg enthousiast over de bewegende strepen op de homepagina .
             </p>
+            <h1>Review 3</h1>
+            <p><b>Docenten</b><br>
+                De docenten waren erg tevreden over wat ik neer had gezet. Ze waren blij dat ze de vorige keer zo kritisch richting mij zijn geweest, want daardoor had ik een hoop extra gedaan aan development. Ze hadden wel nog wat kleine feedbackpuntjes over de inhoud van mijn website.
+                <br><br>
+                Ik zou de volgende keer misschien wat kritischere opdrachtgevers moeten vragen voor mijn designopdrachten. Volgens een aantal docenten zijn de mensen van Salve Mundi namelijk misschien enigszins snel tevreden. Daardoor maak ik mogelijk niet echt stappen in design. Voor de designprojecten die daarna volgden heb ik feedback gevraagd aan docenten.
+                <br><br>
+                Daarnaast kreeg ik ook nog de feedback dat ik iets over mezelf bij mijn professional identity moest neerzetten. Denk hierbij aan wie ik nu ben, en wat mijn ambities zijn. Ik heb dit verwerkt in mijn professional identity door het schrijven van een zelfreflectie.
+
+            </p>
         </div>
         <div class="text4">
             <h1>Wat heb ik geleerd?</h1>

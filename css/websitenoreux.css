@@ -91,7 +91,7 @@ body {
 .grid-container {
     display: grid;
     grid-template-columns: 800px 800px;
-    grid-template-rows: 150px 500px 1500px 240px;
+    grid-template-rows: 160px 440px 615px 450px;
     gap: 0px 0px;
     grid-auto-flow: row;
     grid-template-areas:
@@ -129,7 +129,7 @@ body {
 
 
 .afbeelding img {
-    height: 480px;
+    height: 350px;
     margin: 50px 120px 100px 100px;
     border-radius: 20px;
     box-shadow: 0 3px 20px rgba(255, 255, 255, 0.5);
@@ -137,8 +137,8 @@ body {
 }
 
 .afbeelding2 img {
-    height: 515px;
-    margin: 50px 120px 100px 100px;
+    height: 252px;
+    margin: 10px 120px 5px 100px;
     border-radius: 20px;
     box-shadow: 0 3px 20px rgba(255, 255, 255, 0.5);
     grid-area: afbeelding2;
@@ -202,31 +202,25 @@ h1 {
     text-align: center;
 }
 
-.github{
+.testen{
     font-size: 15px;
     height: 200px;
-    margin-top: 200px;
-    margin-left: 100px;
-    grid-area: github;
+    grid-area: testen;
     flex-direction: column;
     display: flex;
     align-items: center;
 }
 
-.github a{
+.testen a{
     font-size: 90px;
     color: white;
     text-decoration: none;
+    transform: translateY(-86px);
     transition: all .5s;
     grid-area: testen;
 }
 
-.github img{
-    height: 60px;
-    width: auto;
-}
-
-.github a:hover{
-    transform: translateY(-20px);
+.testen a:hover{
+    transform: translateX(20px) translateY(-86px);
     transition: all .5s;
 }

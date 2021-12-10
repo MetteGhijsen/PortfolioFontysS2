@@ -60,8 +60,8 @@
                 was Tessa Meester, lid van de band NORE. We hebben haar geholpen met de website en de branding van de band.</p>
             </div>
 
-            <a href="../documentatieincompleet.php" class="btn"> <i
-                        class="bi bi-play"></i> Documentatie incompleet </a>
+            <a href="../projects/interactive%20media%20projects/websiteNORE.php" class="btn"> <i
+                        class="bi bi-play"></i> Bekijk Project </a>
         </div>
     </div>
 

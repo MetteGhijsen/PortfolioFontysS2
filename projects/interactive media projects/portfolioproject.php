@@ -42,6 +42,8 @@
         </div>
         <div class="afbeelding2">
             <img id="afbeelding2" src="../../img/interactive%20media/portfoliouxvoorbeeld1.PNG" alt="projectimage">
+            <img id="afbeelding2" src="../../img/interactive%20media/groen.PNG" alt="projectimage" style="margin-top: -20px;">
+            <img id="afbeelding2" src="../../img/interactive%20media/duimpie.jfif" alt="projectimage" style="margin-top: -20px; height: 360px;">
         </div>
         <div class="text2">
             <h1>Review 1</h1>
@@ -53,6 +55,8 @@
                 <b>Vriendin zonder grafische achtergrond</b><br>
                 Vriendin vindt het een mooie website. Ze gaf wel als feedback dat nergens op de site te vinden is wie ik ben en wat ik doe. Ze vertelde dat het misschien een goed idee zou zijn om een soort “over mij” tabje te maken waarin wat informatie over mij te vinden is. Denk hierbij aan mijn vooropleiding, en wat ik leuk vindt en wat ik wil doen. Ik heb dit verwerkt voor de volgende feedbackronde.
             </p>
+            <br>
+            <br>
 
             <h1>Review 2</h1>
             <p><b>Docenten</b><br>
@@ -65,6 +69,9 @@
                 <br>
                 Deze student vind het een mooie website. Alle projecten zijn makkelijk te vinden en te bekijken. De student was erg enthousiast over de bewegende strepen op de homepagina .
             </p>
+            <br>
+            <br>
+
             <h1>Review 3</h1>
             <p><b>Docenten</b><br>
                 De docenten waren erg tevreden over wat ik neer had gezet. Ze waren blij dat ze de vorige keer zo kritisch richting mij zijn geweest, want daardoor had ik een hoop extra gedaan aan development. Ze hadden wel nog wat kleine feedbackpuntjes over de inhoud van mijn website.

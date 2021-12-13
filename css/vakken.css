@@ -5,6 +5,10 @@ html, body {
     scroll-behavior: smooth;
 }
 
+::selection {
+    background: #0900b6;
+}
+
 @font-face {
     font-family: "Quicksand Light";
     src: url("../fonts/quicksand/Quicksand-Light.ttf") format("truetype");

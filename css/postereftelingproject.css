@@ -3,6 +3,10 @@ html, body {
     margin: 0;
 }
 
+::selection {
+    background: #0900b6;
+}
+
 @font-face {
     font-family: "Quicksand Light";
     src: url("../fonts/quicksand/Quicksand-Light.ttf") format("truetype");

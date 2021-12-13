@@ -2,6 +2,9 @@ html, body {
     height: 100%;
     margin: 0;
 }
+::selection {
+    background: #0900b6;
+}
 
 @font-face {
     font-family: "Montserrat-Regular";

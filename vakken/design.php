@@ -28,6 +28,25 @@
 
     <div class="project-group" data-aos="fade-right" data-aos-duration="1000">
         <div class="afbeelding">
+            <img src="../img/design/portfolioontwerp.PNG"
+                 alt="portfolioafbeelding">
+        </div>
+        <div class="text">
+            <div class="titel">
+                <p> Portfolio Website Design</p>
+            </div>
+
+            <div class="artikel">
+                <p> Dit is een portfolio-website die ik gemaakt heb gedurende dit semester. Hier laat ik mijn ontwerpproces zien.</p>
+            </div>
+
+            <a href="../projects/design%20projects/portfoliodesign.php" class="btn"> <i
+                        class="bi bi-play"></i> Bekijk Project</a>
+        </div>
+    </div>
+
+    <div class="project-group" data-aos="fade-right" data-aos-duration="1000">
+        <div class="afbeelding">
             <img src="../img/design/metteposter.PNG"
                  alt="projectafbeelding">
         </div>
@@ -144,25 +163,6 @@
 
             <a href="../documentatieincompleet.php" class="btn"> <i
                         class="bi bi-play"></i> Documentatie incompleet </a>
-        </div>
-    </div>
-
-    <div class="project-group" data-aos="fade-right" data-aos-duration="1000">
-        <div class="afbeelding">
-            <img src="../gif/portfoliowebsite.gif"
-                 alt="portfolioafbeelding">
-        </div>
-        <div class="text">
-            <div class="titel">
-                <p> Portfolio Website Design</p>
-            </div>
-
-            <div class="artikel">
-                <p> Dit is een portfolio-website die ik gemaakt heb gedurende dit semester. Hier laat ik mijn ontwerpproces zien.</p>
-            </div>
-
-            <a href="../documentatieincompleet.php" class="btn"> <i
-                        class="bi bi-play"></i> Documentatie incompleet</a>
         </div>
     </div>
 

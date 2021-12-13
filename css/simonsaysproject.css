@@ -3,6 +3,10 @@ html, body {
     margin: 0;
 }
 
+::selection {
+    background: #0900b6;
+}
+
 @font-face {
     font-family: "Montserrat-Regular";
     src: url("../fonts/montserrat/Montserrat-Regular.otf") format("truetype");

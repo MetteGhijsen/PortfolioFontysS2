@@ -1,0 +1,234 @@
+html, body {
+    height: 100%;
+    margin: 0;
+}
+::selection {
+    background: #0900b6;
+}
+
+@font-face {
+    font-family: "Quicksand Light";
+    src: url("../fonts/quicksand/Quicksand-Light.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: "Montserrat-Regular";
+    src: url("../fonts/montserrat/Montserrat-Regular.otf") format("truetype");
+}
+
+@font-face {
+    font-family: "Montserrat-Bold";
+    src: url("../fonts/montserrat/Montserrat-Bold.otf") format("truetype");
+}
+
+/* width */
+::-webkit-scrollbar {
+    width: 4px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+    background: black;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+    background: #0900b6;
+    border-radius: 5px;
+}
+
+body {
+    font-family: "Montserrat-Bold", serif;
+    color: white;
+    background-image: url("../img/portfolioachtergrondV4.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.taakbalk {
+    margin-left: 100px;
+    margin-top: 25px;
+    margin-bottom: -75px;
+    font-size: 10px;
+    font-weight: normal;
+}
+
+.taakbalk li a {
+    text-decoration: none;
+    color: white;
+    font-family: "Montserrat-Regular", sans-serif;
+}
+
+.taakbalk li {
+    display: inline;
+    font-size: 35px;
+}
+
+.taakbalk .currentpage {
+    color: #0900b6;
+}
+
+.pijltje {
+    font-family: "Quicksand Light", sans-serif;
+}
+
+.hoofdtekst {
+    display: flex;
+    justify-content: flex-start;
+    font-size: 60px;
+    margin-left: 100px;
+    margin-top: 30px;
+    margin-bottom: -30px;
+    text-shadow: 5px 5px #0900b6;
+}
+
+.projectinfo {
+    font-family: "Montserrat-Regular", sans-serif;
+    font-size: 25px;
+    color: white;
+    margin-left: 100px;
+}
+
+.grid-container {
+    display: grid;
+    grid-template-columns: 750px 850px;
+    grid-template-rows: 140px 400px 400px 680px;
+    gap: 0px 0px;
+    grid-auto-flow: row;
+    grid-template-areas:
+    "text text ."
+    "text2 image ."
+    "text2 image2 ."
+    "text5 text4 .";
+    animation-name: block;
+    animation-duration: 1s;
+}
+
+.text {
+    grid-area: text;
+}
+
+.pdf {
+    grid-area: pdf;
+}
+
+.text2 {
+    grid-area: text2;
+}
+
+.text4 {
+    grid-area: text4;
+}
+
+.text5{
+    grid-area: text5;
+}
+
+.image {
+    grid-area: image;
+    margin-left: 100px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.image2 {
+    grid-area: image2;
+    margin-left: 100px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.image img {
+    height: 100%;
+    width: auto;
+}
+
+.image2 img {
+    height: 100%;
+    width: auto;
+    margin-bottom: 24px;
+}
+
+.text {
+    margin-left: 100px;
+    grid-area: text;
+    font-family: "Montserrat-Regular", sans-serif;
+    font-size: 20px;
+    margin-bottom: 30px;
+}
+
+.text2 {
+    margin-left: 100px;
+    grid-area: text2;
+    font-family: "Montserrat-Regular", sans-serif;
+    font-size: 20px;
+    margin-bottom: 30px;
+}
+
+.text4 {
+    margin-top: 319px;
+    margin-left: 100px;
+    grid-area: text4;
+    font-family: "Montserrat-Regular", sans-serif;
+    font-size: 20px;
+}
+
+.text5 {
+    margin-top: 319px;
+    margin-left: 100px;
+    grid-area: text5;
+    font-family: "Montserrat-Regular", sans-serif;
+    font-size: 20px;
+}
+
+h1 {
+    font-family: "Montserrat-Bold", serif;
+    font-size: 30px;
+}
+
+.github {
+    font-size: 15px;
+    height: 200px;
+    margin-top: 200px;
+    margin-left: 100px;
+    grid-area: github;
+    flex-direction: column;
+    display: flex;
+    align-items: center;
+}
+
+.github a {
+    font-size: 90px;
+    color: white;
+    text-decoration: none;
+    transition: all .5s;
+    grid-area: testen;
+}
+
+.github img {
+    height: 60px;
+    width: auto;
+}
+
+.github a:hover {
+    transform: translateY(-20px);
+    transition: all .5s;
+}
+
+@keyframes block {
+    0% {
+        margin-top: -75px;
+    }
+    100% {
+        margin-top: 0px;
+    }
+}
+
+.copyrightnote {
+    font-family: "Quicksand Light";
+    font-size: 15px;
+    color: white;
+    text-align: center;
+}

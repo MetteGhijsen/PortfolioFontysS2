@@ -57,7 +57,8 @@
             <h1>Wat heb ik geleerd?</h1>
             <p>Ik heb geleerd wat “The Brand Canvas” is en hoe ik deze moet invullen. Als ik ooit een eigen bedrijf zou willen starten is dit een erg nuttige manier om de persoonlijkheid van mijn merk te ontdekken. Daarnaast heb ik ook geleerd hoe ik mijn bronnen in APA-stijl moet noteren.</p>
             <h1>Feedback</h1>
-            <p>Evert van de Grift moet nog feedback geven op deze opdracht.</p>
+            <p> Evert van de Grift had het volgende te zeggen over mijn Branding opdracht: "
+                Hi Mette, de opdracht was eigenlijk 4 pagina’s max, maar als ik alle tekst ik één Word document zet heb je dat ook. Je hebt veel tijd en moeite in de opmaak gestoken, dus dat is zeker wat waard. Ik heb letterlijk 0 feedback, precies goed uitgevoerd deze opdracht. Heel goed gedaan, ik heb het ook meteen beoordeeld met een outstanding!"</p>
         </div>
     </div>
         <div class="download">

@@ -35,7 +35,7 @@
     <div class="grid-container">
         <div class="text">
             <h1>Inleiding</h1>
-            <p>Voor ons groepsproject was ik samen met een medestudent verantwoordelijk voor de website van onze opdrachtgever. Deze hebben we gemaakt met behulp van Wordpress. Dit deel gaat voornamelijk in op de gebruiksvriendelijkheid van de website. Als je interesse hebt in het ontwerp van de website, kun je <a href="../../vakken/design.php" style="color: #0900b6">hier</a> klikken om het designproces te bekijken. </p>
+            <p>Voor ons groepsproject was ik samen met een medestudent verantwoordelijk voor de website van onze opdrachtgever. Deze hebben we gemaakt met behulp van Wordpress. Dit deel gaat voornamelijk in op de gebruiksvriendelijkheid van de website. Als je interesse hebt in het ontwerp van de website, kun je <a href="../../projects/design%20projects/websitenoreontwerp.php" style="color: #0900b6">hier</a> klikken om het designproces te bekijken. </p>
         </div>
         <div class="afbeelding">
             <img src="../../gif/fretnore.gif" alt="projectimage">

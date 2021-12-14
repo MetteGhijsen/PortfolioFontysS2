@@ -47,6 +47,25 @@
 
     <div class="project-group" data-aos="fade-right" data-aos-duration="1000">
         <div class="afbeelding">
+            <img src="../img/design/noredesignprojectimage.png"
+                 alt="projectafbeelding">
+        </div>
+        <div class="text">
+            <div class="titel">
+                <p> Website NORE Design</p>
+            </div>
+
+            <div class="artikel">
+                <p> Voor de tweede sprint van ons project hebben we een website ontworpen voor de band NORE. We hebben Adobe XD gebruikt om een zo mooi en interactief mogelijk prototype neer te zetten. </p>
+            </div>
+
+            <a href="../projects/design%20projects/websitenoreontwerp.php" class="btn"> <i
+                        class="bi bi-play"></i> Bekijk Project </a>
+        </div>
+    </div>
+
+    <div class="project-group" data-aos="fade-right" data-aos-duration="1000">
+        <div class="afbeelding">
             <img src="../img/design/metteposter.PNG"
                  alt="projectafbeelding">
         </div>
@@ -166,24 +185,6 @@
         </div>
     </div>
 
-    <div class="project-group" data-aos="fade-right" data-aos-duration="1000">
-        <div class="afbeelding">
-            <img src="../img/design/noredesignprojectimage.png"
-                 alt="projectafbeelding">
-        </div>
-        <div class="text">
-            <div class="titel">
-                <p> Website NORE Design</p>
-            </div>
-
-            <div class="artikel">
-                <p> Voor de tweede sprint van ons project hebben we een website ontworpen voor de band NORE. We hebben Adobe XD gebruikt om een zo mooi en interactief mogelijk prototype neer te zetten. </p>
-            </div>
-
-            <a href="../projects/design%20projects/poster%20ehbs.php" class="btn"> <i
-                        class="bi bi-play"></i> Documentatie incompleet </a>
-        </div>
-    </div>
     <a class="gotopbutton" id="gotopbutton" href="#"><i class="bi bi-arrow-up"></i></a>
 <footer>
     <div class="copyrightnote">

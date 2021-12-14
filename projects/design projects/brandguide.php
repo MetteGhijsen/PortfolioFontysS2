@@ -29,8 +29,8 @@
 
     <div class="projectinfo">
         <p><i class="bi bi-pencil"></i> Design</p>
-        <p><i class="bi bi-people-fill"></i> Groeps</p>
-    </div>
+        <p><i class="bi bi-people-fill"></i> Groep</p>
+</div>
 
     <div class="grid-container">
         <div class="text">

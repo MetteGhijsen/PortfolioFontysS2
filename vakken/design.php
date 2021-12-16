@@ -109,6 +109,25 @@
 
     <div class="project-group" data-aos="fade-right" data-aos-duration="1000">
         <div class="afbeelding">
+            <img src="../img/research/coffeelab.png"
+                 alt="projectafbeelding">
+        </div>
+        <div class="text">
+            <div class="titel">
+                <p> Coffeelab </p>
+            </div>
+
+            <div class="artikel">
+                <p>Voor de specialisatie Branding heb ik research gedaan naar het bedrijf Coffeelab. Dit onderzoek heb ik gedocumenteerd in een soort boekje. Hier licht ik toe hoe ik dit design heb gemaakt.</p>
+            </div>
+
+            <a href="../projects/design%20projects/brandingcoffeelab.php" class="btn"> <i
+                        class="bi bi-play"></i> Bekijk Project </a>
+        </div>
+    </div>
+
+    <div class="project-group" data-aos="fade-right" data-aos-duration="1000">
+        <div class="afbeelding">
             <img src="../img/design/ehbs.PNG"
                  alt="projectafbeelding">
         </div>
@@ -163,25 +182,6 @@
 
             <a href="../projects/design%20projects/poster%20neonparty.php" class="btn"> <i
                         class="bi bi-play"></i> Bekijk Project </a>
-        </div>
-    </div>
-
-    <div class="project-group" data-aos="fade-right" data-aos-duration="1000">
-        <div class="afbeelding">
-            <img src="../img/research/coffeelab.png"
-                 alt="projectafbeelding">
-        </div>
-        <div class="text">
-            <div class="titel">
-                <p> Coffeelab </p>
-            </div>
-
-            <div class="artikel">
-                <p>Voor de specialisatie Branding heb ik research gedaan naar het bedrijf Coffeelab. Dit onderzoek heb ik gedocumenteerd in een soort boekje. Hier licht ik toe hoe ik dit design heb gemaakt.</p>
-            </div>
-
-            <a href="../documentatieincompleet.php" class="btn"> <i
-                        class="bi bi-play"></i> Documentatie incompleet </a>
         </div>
     </div>
 

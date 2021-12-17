@@ -12,6 +12,34 @@
 </head>
 
 <body>
+<div class="loader-wrapper" id="loader-wrapper">
+    <div class="loader">
+        <div class="ele1"></div>
+        <div class="ele1"></div>
+        <div class="ele1"></div>
+    </div>
+</div>
+
+<script src="../development%20projects/webpagina's/laadscherm/anime.min.js"></script>
+<script>
+    let loaderWrapper = document.querySelector('.loader-wrapper');
+
+    window.addEventListener('load',function (){
+        // loaderWrapper.style.display = 'none';
+        loaderWrapper.parentElement.removeChild(loaderWrapper);
+    })
+
+    anime({
+        targets: '.loader .ele1',
+        loop: true,
+        scale: [
+            {value: '.5', duration: 1200},
+            {value: '1', duration: 1200},
+        ],
+        delay: anime.stagger(400)
+    });
+</script>
+
 <div class="container">
     <div class="taakbalk">
         <li><a href="../../index.php"> Home </a></li>

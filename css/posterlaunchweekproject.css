@@ -3,6 +3,35 @@ html, body {
     margin: 0;
 }
 
+.loader-wrapper {
+    transition: all 1.5s ease;
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    /*background-image: url("../img/portfolioachtergrondV4.png");*/
+    /*background-position: center;*/
+    /*background-repeat: no-repeat;*/
+    /*background-attachment: fixed;*/
+    /*background-size: cover;*/
+    background-color: black;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.ele1{
+    display: inline-block;
+    width: 30px;
+    height: 30px;
+    background-color: white;
+    border-radius: 30px;
+    margin: 10px;
+    box-shadow: 3px 3px #0900b6;
+}
+
 ::selection {
     background: #0900b6;
 }

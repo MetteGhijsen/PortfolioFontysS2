@@ -109,10 +109,7 @@
                 <a href="https://github.com/metteghijsen/ScrollAnimaties" target="_blank" style="margin-left: 70px;">Github →</a>
                 <br><br>
                 <b>Granim.js</b><br>
-                Als eerste heb ik besloten iets te doen met Anime.js. Ik ben van mening dat animaties je website er snel
-                een stuk professioneler uit kunnen laten zien. Anime.js is een grote library die je veel mogelijkheden
-                geeft om zelf animaties te maken. Deze animaties trekken de aandacht van de gebruiker, en kunnen de
-                website makkelijk een stuk speelser en interactiever maken.
+                Granim.js is een library waarmee je bewegende, interactieve gradients kan maken. Aangezien ik me best wel focus op libraries die visueel iets bieden, leek deze library mij ook een mooie toevoeging aan dit rijtje. Een bewegende gradient is een hele minimalistische toevoeging waardoor je website toch snel een stuk levendiger kan voelen. Mijn interesse was dus zeker gepiekt.
                 <br>
                 <a href="../development%20projects/webpagina's/GradientScript/index.php" target="_blank">Demo →</a>
                 <a href="https://github.com/metteghijsen/GradientScript" target="_blank" style="margin-left: 70px;">Github →</a>

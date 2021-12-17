@@ -2,8 +2,14 @@ html, body {
     height: 100%;
     margin: 0;
 }
+
 ::selection {
     background: #0900b6;
+}
+
+@font-face {
+    font-family: "Quicksand Light";
+    src: url("../fonts/quicksand/Quicksand-Light.ttf") format("truetype");
 }
 
 @font-face {
@@ -88,17 +94,14 @@ body {
 
 .grid-container {
     display: grid;
-    grid-template-columns: 920px 850px 0.1fr;
-    grid-template-rows: 130px 800px 1000px 600px 380px;
-    gap: 0 0;
+    grid-template-columns: 750px 850px;
+    grid-template-rows: 240px 727px 180px 145px;
+    gap: 0px 0px;
     grid-auto-flow: row;
     grid-template-areas:
-    "text text ."
-    "text2 text3 ."
-    "text2 afbeelding2 ."
-    "text2 afbeelding2 ."
-    "text4 text5 ."
-    "links links .";
+    "text text2 ."
+    "pdf text2 ."
+    "pdf text5 .";
     animation-name: block;
     animation-duration: 1s;
 }
@@ -107,20 +110,12 @@ body {
     grid-area: text;
 }
 
+.pdf {
+    grid-area: pdf;
+}
+
 .text2 {
     grid-area: text2;
-}
-
-.text3 {
-    grid-area: text3;
-}
-
-.afbeelding2 {
-    grid-area: afbeelding2;
-}
-
-.afbeelding3{
-    grid-area: afbeelding3;
 }
 
 .text4 {
@@ -131,42 +126,12 @@ body {
     grid-area: text5;
 }
 
-.links{
-    grid-area: links;
-    display: flex;
-}
 
-.text2 a{
-    text-decoration: none;
-    color: #0900b6;
-}
-
-.text3 a{
-    text-decoration: none;
-    color: #0900b6;
-}
-
-.afbeelding img {
-    height: 250px;
-    margin: 50px 100px 100px 100px;
+.pdf iframe{
+    margin: 50px 120px 100px 100px;
     border-radius: 20px;
     box-shadow: 0 3px 20px rgba(255, 255, 255, 0.5);
-    grid-area: afbeelding;
-}
-
-.afbeelding2{
-    margin-top: 50px;
-    display: flex;
-    flex-direction: column;
-    align-items: flex-end;
-}
-
-.afbeelding2 img {
-    height: 200px;
-    margin: 0 100px 20px 50px;
-    border-radius: 20px;
-    box-shadow: 0 3px 20px rgba(255, 255, 255, 0.5);
-    grid-area: afbeelding2;
+    grid-area: pdf;
 }
 
 .text {
@@ -185,21 +150,12 @@ body {
     margin-bottom: 30px;
 }
 
-.text3 {
-    margin-top: 75px;
-    margin-left: 100px;
-    grid-area: text3;
-    font-family: "Montserrat-Regular", sans-serif;
-    font-size: 20px;
-    margin-bottom: 30px;
-}
-
 .text4 {
+    margin-top: 60px;
     margin-left: 100px;
     grid-area: text4;
     font-family: "Montserrat-Regular", sans-serif;
     font-size: 20px;
-    margin-bottom: 30px;
 }
 
 h1 {
@@ -208,6 +164,7 @@ h1 {
 }
 
 .text5 {
+    margin-top: 60px;
     margin-left: 100px;
     grid-area: text5;
     font-family: "Montserrat-Regular", sans-serif;
@@ -215,9 +172,24 @@ h1 {
     margin-bottom: 30px;
 }
 
-.text2 img{
-    height: 40px;
-    width: auto;
+.download {
+    margin-bottom: -50px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.download a {
+    font-size: 60px;
+    color: white;
+    text-decoration: none;
+    transform: translateY(-50px);
+    transition: all .5s;
+}
+
+.download a:hover {
+    transform: translateY(-30px);
+    transition: all .5s;
 }
 
 @keyframes block {
@@ -234,7 +206,6 @@ h1 {
 }
 
 .copyrightnote {
-    margin-top: 60px;
     font-family: "Quicksand Light";
     font-size: 15px;
     color: white;

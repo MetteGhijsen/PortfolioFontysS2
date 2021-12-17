@@ -101,25 +101,35 @@
                 <br>
                 <a href="../development%20projects/webpagina's/AnimatieNaam/index.php" target="_blank">Demo →</a>
                 <a href="https://github.com/metteghijsen/AnimatieNaam" target="_blank" style="margin-left: 70px;">Github →</a>
-                <br></br>
+                <br><br>
                 <b>Aos.js</b><br>
                 Op veel professionele websites kom je on-scroll animaties tegen. Ik vind dit soort animaties altijd erg mooi, en het maakt een website in één klap een stuk dynamischer. Tot nu toe heb ik deze animaties altijd zelf gemaakt, door keyframes te gebruiken. Daarom wilde ik graag weten hoe ik dit kon doen met behulp van een library.
                 <br>
                 <a href="../development%20projects/webpagina's/ScrollAnimaties/index.php" target="_blank">Demo →</a>
                 <a href="https://github.com/metteghijsen/ScrollAnimaties" target="_blank" style="margin-left: 70px;">Github →</a>
-                <br></br>
+                <br><br>
                 <b>Granim.js</b><br>
                 Als eerste heb ik besloten iets te doen met Anime.js. Ik ben van mening dat animaties je website er snel
                 een stuk professioneler uit kunnen laten zien. Anime.js is een grote library die je veel mogelijkheden
                 geeft om zelf animaties te maken. Deze animaties trekken de aandacht van de gebruiker, en kunnen de
                 website makkelijk een stuk speelser en interactiever maken.
-                <br></br>
+                <br>
                 <a href="../development%20projects/webpagina's/GradientScript/index.php" target="_blank">Demo →</a>
                 <a href="https://github.com/metteghijsen/GradientScript" target="_blank" style="margin-left: 70px;">Github →</a>
                 <br>
                 <br>
+            </p>
             <h1>Week 3</h1>
-            <p></p>
+            <p>Voor week 3 was de opdracht om een van de gekozen libraries te gebruiken in je portfolio of in een prototype. Ik had gemerkt dat sommige van mijn pagina’s enige tijd nodig hadden om te laden. Daarom besloot ik met behulp van animejs een laadscherm te animeren met Javascript.
+                <br><br>
+                Nadat ik voor mezelf weer even wat animejs had herhaald, ben ik vanuit scratch begonnen met het maken van het laadscherm. Ik begon met neerzetten van drie witte bolletjes. Ik wilde deze een voor een laten “poppen”. Ik wist niet helemaal hoe dit moest, dus ik ging zoeken tussen de documentatie van animejs. Op een gegeven moment zag ik dat ik mijn bolletjes een value kon geven. Hoe groter de value, hoe groter het bolletje. Ik besloot hiermee te experimenteren, en vervolgens had ik de animatie op de eerste afbeelding.
+                <br><br>
+                Daarna begon ik met zoeken naar de eigenschap waarmee ik de drie bolletjes een voor een kon laten “poppen”. Na wat onderzoek te hebben gedaan en wat YouTube tutorials te hebben gekeken kwam ik erachter dat ik hiervoor de delay-eigenschap moest hebben. Aangezien de delay geldt voor het geheel, en niet voor elk individueel bolletje, moest ik de waarde van de delay in de functie anime.stagger() zetten. Vervolgens kreeg ik de animatie op de tweede afbeelding.
+                <br><br>
+                Ik vond dit nog niet helemaal bij de stijl van mijn website passen. Ik had het gevoel dat ik nog iets miste. Ik besloot te gaan experimenteren met de blauwe schaduw die ik ook achter mijn titels heb staan. Uiteindelijk was de animatie op de derde afbeelding het resultaat. Ik was hier erg tevreden mee.
+                <br>
+                <a href="../development%20projects/webpagina's/laadscherm/index.php" target="_blank">Demo →</a>
+                <a href="https://github.com/metteghijsen/laadscherm" target="_blank" style="margin-left: 70px;">Github →</a>
             </p>
         </div>
         <div class="text3">
@@ -163,34 +173,22 @@
         <div class="afbeelding2">
             <img id="afbeelding1" src="../../gif/animatienaam.gif" alt="projectimage" style="margin-top: 50px; height: 300px; width: auto;">
             <img id="afbeelding1" src="../../gif/AnimatedScroll.gif" alt="projectimage" style="margin-top: 5px; height: 300px; width: auto;">
+            <img src="../../gif/laadscherm1.gif" alt="projectimage" style="margin-top: 120px; height: 211px; margin-right: 355px">
+            <img src="../../gif/laadscherm2.gif" alt="projectimage" style="height: 225px; margin-right: 355px">
+            <img src="../../gif/laadscherm3.gif" alt="projectimage" style="margin-right: 355px">
         </div>
-        <!--        <div class="text4">-->
-        <!--            <h1>Wat heb ik geleerd?</h1><p></p>-->
-        <!--        </div>-->
-        <!--        <div class="text5">-->
-        <!--            <h1>Feedback</h1>-->
-        <!--            <p>De gekregen feedback moet nog worden genoteerd</p>-->
-        <!--        </div>-->
-        <!--        <div class="links">-->
-        <!--            <div class="download">-->
-        <!--                <h2>Klik hier om het project te downloaden</h2>-->
-        <!--                <a href="todolist.zip" download="todolist.zip">-->
-        <!--                    <p><i class="bi bi-download"></i></p>-->
-        <!--                </a>-->
-        <!--            </div>-->
-        <!--            <div class="testen">-->
-        <!--                <h2>Klik hier om het project te testen</h2>-->
-        <!--                <a href="webpagina's/todolist/index.php" target="_blank">-->
-        <!--                    <p><i class="bi bi-play"></i></p>-->
-        <!--                </a>-->
-        <!--            </div>-->
-        <!--            <div class="github">-->
-        <!--                <h2>Klik hier om het project te bekijken op Github</h2>-->
-        <!--                <a href="https://github.com/metteghijsen/SimonSays" target="_blank">-->
-        <!--                    <img src="../../img/github.png" alt="githublogo">-->
-        <!--                </a>-->
-        <!--            </div>-->
-        <!--        </div>-->
+                <div class="text4">
+                    <h1>Wat heb ik geleerd?</h1>
+                    <p>
+                        Ik heb geleerd te werken met libraries. Ik wist eerst niet hoe libraries werkte, wat ze inhielden, hoe je ze moest gebruiken etc. Nu weet ik hoe ik een library moet includen in mijn code, en hoe ik erachter moet komen hoe deze werkt. Ik heb naar veel verschillende libraries gekeken, en ik heb nu een goed overzicht van watvoor libraries veel gebruikt worden op dit moment en waarvoor deze dan worden gebruikt.
+                        <br><br>
+                        Daarnaast heb ik ook heel veel kennis opgedaan over animejs. Ik denk dat dit me nog enorm veel gaat helpen met het maken van animaties in de toekomst, en ik ben blij dat ik ervoor heb gekozen om meer onderzoek te doen naar deze library. Daarnaast heb ik ook geleerd hoe aosjs werkt, en dit al gelijk toegepast in mijn portfolio. Kortom, ik ben erg tevreden over mijn vooruitgang.
+                    </p>
+                </div>
+                <div class="text5">
+                    <h1>Feedback</h1>
+                    <p>De gekregen feedback moet nog worden genoteerd</p>
+                </div>
     </div>
 </body>
 

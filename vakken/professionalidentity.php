@@ -33,36 +33,17 @@
         </div>
         <div class="text">
             <div class="titel">
-                <p> Coffeelab </p>
+                <p> Branding </p>
             </div>
 
             <div class="artikel">
                 <p> Hier beschrijf ik waarom ik voor de specialisatie Branding heb gekozen en wat ik ervan geleerd heb. Bij deze specialisatie was het de bedoeling dat ik onderzoek deed naar een bedrijf. Het bedrijf dat ik gekozen heb is Coffeelab.</p>
             </div>
 
-            <a href="../documentatieincompleet.php" class="btn"> <i
-                        class="bi bi-play"></i> Documentatie incompleet </a>
+            <a href="../projects/professional%20identity/branding.php" class="btn"> <i
+                        class="bi bi-play"></i> Bekijk Project </a>
         </div>
     </div>
-
-<!--    <div class="project-group">-->
-<!--        <div class="afbeelding">-->
-<!--            <img src="../img/placeholder.jpg"-->
-<!--                 alt="projectafbeelding">-->
-<!--        </div>-->
-<!--        <div class="text">-->
-<!--            <div class="titel">-->
-<!--                <p> Storytelling & Gamification </p>-->
-<!--            </div>-->
-<!---->
-<!--            <div class="artikel">-->
-<!--                <p>  </p>-->
-<!--            </div>-->
-<!---->
-<!--            <a href="../projects/interactive%20media%20projects/portfolioproject.php" class="btn"> <i-->
-<!--                        class="bi bi-play"></i> Documentatie incompleet </a>-->
-<!--        </div>-->
-<!--    </div>-->
 
     <div class="project-group" data-aos="fade-right" data-aos-duration="1000">
         <div class="afbeelding">
@@ -77,7 +58,25 @@
                 <p>Advanced Development is een van de specialisaties die ik heb gekozen voor de leeruitkomst Professional Identity. Bij deze specialisatie was het de bedoeling dat ik onderzoek doe naar 10 libraries, en vervolgens van 3 libraries een demo maak.</p>
             </div>
 
-            <a href="../projects/development%20projects/advanceddevelopment.php" class="btn"> <i
+            <a href="../projects/professional%20identity/advanced%20development.php" class="btn"> <i
+                        class="bi bi-play"></i> Bekijk Project </a>
+        </div>
+    </div>
+
+    <div class="project-group" data-aos="fade-right" data-aos-duration="1000">
+        <div class="afbeelding">
+            <img src="../img/placeholder.jpg">
+        </div>
+        <div class="text">
+            <div class="titel">
+                <p> Sprint X</p>
+            </div>
+
+            <div class="artikel">
+                <p>Na onze groepsopdracht volgde er een extra sprint waarbij je je persoonlijke leerdoelen kon kiezen. Ik had interesse in het maken van animaties en besloot mij hierin te verdiepen.</p>
+            </div>
+
+            <a href="../projects/professional%20identity/zelfreflectie.php" class="btn"> <i
                         class="bi bi-play"></i> Documentatie incompleet </a>
         </div>
     </div>

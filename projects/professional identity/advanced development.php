@@ -51,7 +51,7 @@
             Daarnaast heb ik ook heel veel kennis opgedaan over animejs. Ik denk dat dit me nog enorm veel gaat helpen met het maken van animaties in de toekomst, en ik ben blij dat ik ervoor heb gekozen om meer onderzoek te doen naar deze library. Daarnaast heb ik ook geleerd hoe aosjs werkt, en dit al gelijk toegepast in mijn portfolio. Kortom, ik ben erg tevreden over mijn vooruitgang.
 
            <h1>Feedback</h1>
-            Ik heb nog geen feedback ontvangen voor deze specialisatie
+            Frank Roosen had het volgende te zeggen over mijn werk: "Mette heeft de inhoud van Advanced dev al doorlopen voordat de focus startte. Na de special week heeft ze nog een animatie in Anime.js toegevoegd. Alles bij elkaar voldoende om Advanced development overtuigend te behalen."
         </div>
     </div>
 </body>

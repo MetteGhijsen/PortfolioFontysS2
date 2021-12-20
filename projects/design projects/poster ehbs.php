@@ -33,10 +33,10 @@
         targets: '.loader .ele1',
         loop: true,
         scale: [
-            {value: '.5', duration: 1200},
-            {value: '1', duration: 1200},
+            {value: '.5', duration: 900},
+            {value: '1', duration: 900},
         ],
-        delay: anime.stagger(400)
+        delay: anime.stagger(300)
     });
 </script>
 

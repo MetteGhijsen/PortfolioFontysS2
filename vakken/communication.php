@@ -97,8 +97,8 @@
                 <p>Door het hele semester heen heb ik om feedback gevraagd bij docenten. Deze feedback heb ik genoteerd in Feedpulse zodat ik mijn vooruitgang bij kan houden. </p>
             </div>
 
-            <a href="../documentatieincompleet.php" class="btn"> <i
-                        class="bi bi-play"></i> Documentatie incompleet </a>
+            <a href="../projects/communication%20projects/feedpulse.php" class="btn"> <i
+                        class="bi bi-play"></i> Bekijk Project </a>
         </div>
     </div>
 <a class="gotopbutton" id="gotopbutton" href="#"><i class="bi bi-arrow-up"></i></a>

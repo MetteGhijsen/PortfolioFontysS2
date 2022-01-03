@@ -184,8 +184,7 @@
                 </div>
                 <div class="text5">
                     <h1>Feedback</h1>
-                    <p>De gekregen feedback moet nog worden genoteerd</p>
-                    Frank Roosen had het volgende te zeggen over mijn werk: "Mette heeft de inhoud van Advanced dev al doorlopen voordat de focus startte. Na de special week heeft ze nog een animatie in Anime.js toegevoegd. Alles bij elkaar voldoende om Advanced development overtuigend te behalen."
+                    <p>Frank Roosen had het volgende te zeggen over mijn werk: "Mette heeft de inhoud van Advanced dev al doorlopen voordat de focus startte. Na de special week heeft ze nog een animatie in Anime.js toegevoegd. Alles bij elkaar voldoende om Advanced development overtuigend te behalen."</p>
                 </div>
     </div>
 </body>

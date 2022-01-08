@@ -67,6 +67,25 @@
 
     <div class="project-group" data-aos="fade-right" data-aos-duration="1000">
         <div class="afbeelding">
+            <img src="../img/research/moscow.png"
+                 alt="projectafbeelding">
+        </div>
+        <div class="text">
+            <div class="titel">
+                <p> MoSCoW-methode</p>
+            </div>
+
+            <div class="artikel">
+                <p> Toen we een website gingen maken voor NORE, hebben we gebruik gemaakt van de MOSCOW-Methode om te bepalen welke requirements we in het protoype gingen gebruiken.</p>
+            </div>
+
+            <a href="../projects/research%20projects/moscow.php" class="btn"> <i
+                        class="bi bi-play"></i> Bekijk Project </a>
+        </div>
+    </div>
+
+    <div class="project-group" data-aos="fade-right" data-aos-duration="1000">
+        <div class="afbeelding">
             <img src="../img/research/coffeelab.png"
                  alt="projectafbeelding">
         </div>

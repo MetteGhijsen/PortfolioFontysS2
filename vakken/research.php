@@ -57,7 +57,7 @@
             </div>
 
             <div class="artikel">
-                <p> Voor de eerste sprint van ons project moesten we een brandbook maken. Ik was verantwoordelijk voor het kleurgebruik en de typegrafie van de website. Hier heb ik onderzoek naar gedaan. </p>
+                <p> Voor de eerste sprint van ons project moesten we een brandbook maken. Ik was verantwoordelijk voor het kleurgebruik en de typografie van de website. Hier heb ik onderzoek naar gedaan. </p>
             </div>
 
             <a href="../projects/research%20projects/brandbookresearch.php" class="btn"> <i

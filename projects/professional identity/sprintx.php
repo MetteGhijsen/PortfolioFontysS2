@@ -77,9 +77,9 @@
         </div>
     </div>
     <div class="download">
-        <h2>Klik hier om het project te downloaden</h2>
-        <a href="../../pdf/brandbook4.pdf" download="brandingcoffeelab.pdf">
-            <p><i class="bi bi-download"></i></p>
+        <h2>Klik hier om het project te bekijken</h2>
+        <a href="https://www.youtube.com/watch?v=CnhnsWEUdGA" target="_blank">
+            <p><i class="bi bi-play"></i></p>
         </a>
     </div>
 </body>

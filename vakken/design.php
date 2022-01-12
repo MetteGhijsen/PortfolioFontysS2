@@ -52,7 +52,7 @@
         </div>
         <div class="text">
             <div class="titel">
-                <p> Website NORE Design</p>
+                <p> Website NORE (Design)</p>
             </div>
 
             <div class="artikel">

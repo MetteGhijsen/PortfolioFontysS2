@@ -20,11 +20,11 @@
         <li class="pijltje"> < </li>
         <li><a href="../../vakken/research.php"> Research </a></li>
         <li class="pijltje"> < </li>
-        <li><a href="../../projects/research%20projects/moscow.php" class="currentpage">MoSCoW-methode</a></li>
+        <li><a href="../../projects/research%20projects/moscow.php" class="currentpage">MoSCoW methode</a></li>
     </div>
 
     <div class="hoofdtekst">
-        <p> MoSCoW-methode </p>
+        <p> MoSCoW methode </p>
     </div>
 
     <div class="projectinfo">
@@ -42,9 +42,9 @@
                 Voordat je begint met het maken van een prototype, is het wijs om een lijst op te stellen met alles wat er voor moet komen in het prototype. Denk hierbij aan wat de opdrachtgever wilt, maar ook wat goed past bij de doelgroep. Nadat we samen met Tessa een brainstorm-sessie hebben gehouden, hebben we een lijst met requirements opgesteld.
                 <br><br>
             </p>
-                <h1>MoSCow-methode toepassen</h1>
+                <h1>MoSCow methode toepassen</h1>
             <p>
-                Vervolgens was het tijd om eens goed te kijken naar deze requirements. De missie was om de onnodige dingen eruit filteren, en de nuttige dingen zo goed mogelijk naar voren laten komen in het prototype. Het filteren van deze requirements hebben we gedaan door middel van de <b>MoSCoW-methode</b>. MoSCoW staat voor Must, Should, Could en Won’t. Je deelt al je requirements op in een van deze categorieën. Als eerste werk je de Must’s uit, en wanneer je tijd over hebt kun je nog kijken naar de Should’s en de Could’s. Wont’s worden eigenlijk vrijwel nooit uitgewerkt vanwege een gebrek aan tijd of geld.
+                Vervolgens was het tijd om eens goed te kijken naar deze requirements. De missie was om de onnodige dingen eruit filteren, en de nuttige dingen zo goed mogelijk naar voren laten komen in het prototype. Het filteren van deze requirements hebben we gedaan door middel van de <b>MoSCoW methode</b>. MoSCoW staat voor Must, Should, Could en Won’t. Je deelt al je requirements op in een van deze categorieën. Als eerste werk je de Must’s uit, en wanneer je tijd over hebt kun je nog kijken naar de Should’s en de Could’s. Wont’s worden eigenlijk vrijwel nooit uitgewerkt vanwege een gebrek aan tijd of geld.
                 <br><br>
                 Bij het opstellen van de requirements hebben we ook nog een onderscheid gemaakt tussen functionele en niet-functionele requirements. Als je interesse hebt in het bekijken van het volledige Word-document kun je
                 <a href="../../pdf/Moscow.pdf" target="_blank" style="color: #0900b6">hier</a> klikken.

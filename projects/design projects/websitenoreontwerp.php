@@ -15,16 +15,16 @@
 <div class="container">
     <div class="taakbalk">
         <li><a href="../../index.php"> Home </a></li>
-        <li class="pijltje"> <</li>
+        <li class="pijltje"> < </li>
         <li><a href="../../leeruitkomsten.php"> Leeruitkomsten </a></li>
-        <li class="pijltje"> <</li>
+        <li class="pijltje"> < </li>
         <li><a href="../../vakken/design.php"> Design </a></li>
-        <li class="pijltje"> <</li>
-        <li><a href="../design%20projects/websitenoreontwerp.php" class="currentpage"> Website NORE Design </a></li>
+        <li class="pijltje"> < </li>
+        <li><a href="../design%20projects/websitenoreontwerp.php" class="currentpage"> Website NORE (Design) </a></li>
     </div>
 
     <div class="hoofdtekst">
-        <p> Website NORE Design </p>
+        <p> Website NORE (Design) </p>
     </div>
 
     <div class="projectinfo">

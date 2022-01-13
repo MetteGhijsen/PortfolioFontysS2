@@ -20,11 +20,11 @@
         <li class="pijltje"> <</li>
         <li><a href="../../vakken/design.php"> Design </a></li>
         <li class="pijltje"> <</li>
-        <li><a href="../design%20projects/portfoliodesign.php" class="currentpage"> Portfolio Website Design </a></li>
+        <li><a href="../design%20projects/portfoliodesign.php" class="currentpage"> Portfolio Website (Design) </a></li>
     </div>
 
     <div class="hoofdtekst">
-        <p> Portfolio Website Design </p>
+        <p> Portfolio Website (Design) </p>
     </div>
 
     <div class="projectinfo">

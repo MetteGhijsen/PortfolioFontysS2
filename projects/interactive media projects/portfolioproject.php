@@ -35,7 +35,8 @@
     <div class="grid-container">
         <div class="text">
             <h1>Inleiding</h1>
-            <p> Om de UX van mijn portfolio te testen heb ik bij een aantal groepen om feedback gevraagd. Dit heb ik telkens vlak na een portfolio review sessie gedaan. Hier heb ik ze vragen gesteld zoals wat vind je fijn, wat zijn verbeterpunten qua navigatie, kun je alles goed vinden, en wat vind je wel of niet fijn aan de animaties? Ook heb ik de feedback van docenten verwerkt die is aangegeven tijdens de portfolio reviews.</p>
+            <p> Om de UX van mijn portfolio te testen heb ik bij een aantal groepen om feedback gevraagd. Dit heb ik telkens vlak na een portfolio review sessie gedaan. Hier heb ik ze vragen gesteld zoals wat vind je fijn, wat zijn verbeterpunten qua navigatie, kun je alles goed vinden, en wat vind je wel of niet fijn aan de animaties? Ook heb ik de feedback van docenten verwerkt die is aangegeven tijdens de portfolio reviews. Mocht je de prototypen/ontwerpen met voorbeelden uit het vakgebied willen bekijken, dan kun je naar
+                <a href="../design%20projects/portfoliodesign.php" style="color: #0900b6">het design van mijn portfolio</a> gaan.</p>
         </div>
         <div class="afbeelding">
             <img id="afbeelding1" src="../../img/interactive%20media/portfoliouxvoorbeeld2.PNG" alt="projectimage">

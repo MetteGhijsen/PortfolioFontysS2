@@ -33,7 +33,7 @@
         </div>
         <div class="text">
             <div class="titel">
-                <p> Portfolio Website Design</p>
+                <p> Portfolio Website (Design)</p>
             </div>
 
             <div class="artikel">
@@ -122,6 +122,24 @@
             </div>
 
             <a href="../projects/design%20projects/brandingcoffeelab.php" class="btn"> <i
+                        class="bi bi-play"></i> Bekijk Project </a>
+        </div>
+    </div>
+
+    <div class="project-group" data-aos="fade-right" data-aos-duration="1000">
+        <div class="afbeelding">
+            <img src="../img/professional%20identity/sprintx.png">
+        </div>
+        <div class="text">
+            <div class="titel">
+                <p> Sprint X (Animatie)</p>
+            </div>
+
+            <div class="artikel">
+                <p>Na onze groepsopdracht volgde er een extra sprint waarbij je je persoonlijke leerdoelen kon kiezen. Ik had interesse in het maken van animaties en besloot mij hierin te verdiepen.</p>
+            </div>
+
+            <a href="../projects/professional%20identity/sprintx.php" class="btn"> <i
                         class="bi bi-play"></i> Bekijk Project </a>
         </div>
     </div>

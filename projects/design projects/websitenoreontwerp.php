@@ -43,7 +43,10 @@
         </div>
         <div class="text2">
             <h1>Het designproces</h1>
-            <p>Voordat we begonnen met het ontwerpen van de site, hebben we samen met onze opdrachtgever de huisstijl bepaald. Dit waren regels waar we niet van mochten afwijken. Daarnaast had onze opdrachtgever ons ook nog een paar websites gestuurd, met daarbij een beschrijving wat ze er mooi aan vond. Hierbij was ze ook duidelijk over wat ze terug zou willen zien op haar eigen website.
+            <p>Voordat we begonnen met het ontwerpen van de site, hebben we samen met onze opdrachtgever de huisstijl bepaald. Dit waren regels waar we niet van mochten afwijken. Daarnaast had onze opdrachtgever ons ook nog een paar websites gestuurd, met daarbij een beschrijving wat ze er mooi aan vond. Hierbij was ze ook duidelijk over wat ze terug zou willen zien op haar eigen website. Ze heeft ons de volgende website gestuurd: <br><br>
+                - <a href="https://skegss.com/" style="color: #0900b6" target="_blank">https://skegss.com/</a><br>
+                - <a href="https://www.cagetheelephant.com/home/" style="color: #0900b6" target="_blank">https://www.cagetheelephant.com/home/</a><br>
+                - <a href="http://broncho.tv/" style="color: #0900b6" target="_blank">http://broncho.tv/</a>
                 <br><br>
                 Toen we zijn begonnen met ontwerpen in Adobe XD, hebben we al haar aanwijzingen in ons achterhoofd gehouden. We hebben meerdere varianten gemaakt van de website, allemaal met een compleet verschillend uiterlijk. Daarna hebben we deze naar haar gestuurd, met de vraag welke zij het liefst terug zou willen zien.
                 <br><br>

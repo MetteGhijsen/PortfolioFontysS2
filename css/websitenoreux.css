@@ -95,7 +95,7 @@ body {
 .grid-container {
     display: grid;
     grid-template-columns: 800px 800px;
-    grid-template-rows: 160px 440px 615px 450px;
+    grid-template-rows: 160px 440px 645px 450px;
     gap: 0px 0px;
     grid-auto-flow: row;
     grid-template-areas:
